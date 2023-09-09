@@ -1,31 +1,25 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.2_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Magazine Luiza: referente ao perfil comprador, e fluxos compreendidos do cadastro na plataforma até visualização/compra/pagamento de produtos.
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 07<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211029147 | Arthur de Melo Viana |
+| 222015103 | Débora Caires de Souza Moreira |
+| 211029620 | Douglas Alves dos Santos |
+| 202016328 | Geovanna Maciel Avelino da Costa |
+| 202016480 | Hellen Fernanda Mendonça de Faria |
+| 190090901 | Laura Pinos de Oliveira |
+| 190100087 | Maciel Ferreira Custódio Júnior |
+| 211029666 | Matheus Henrique dos Santos |
+| 190037997 | Sidney Fernando Ferreira Lemes |
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+Projeto da disciplina de Arquitetura e Desenho de Software da Universidade de Brasília (UnB) do semestre 2023.2, referente ao perfil comprador, e fluxos compreendidos do cadastro na plataforma até visualização/compra/pagamento de produtos.
 
-## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+<!-- ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
@@ -53,4 +47,4 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Quaisquer outras informações adicionais podem ser descritas nessa seção. -->
