@@ -6,7 +6,8 @@
 - **Base**
   - [1. Desenho de Software (Base)](Base/1.Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](Base/1.1.AbordagemNaoEspecifica.md)
-      - [1.1.x Plano de Risco](Base/1.1.xplano-risco.md)
+      - [1.1.x Plano de Risco](Base/Planos_Risco_Custo_Tempo/1.1.xplano-risco.md)
+      - [1.1.x Plano de Tempo](Base/Planos_Risco_Custo_Tempo/1.1.xplano-tempo.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](Base/1.3.ParticipacoesBase.md)
 
