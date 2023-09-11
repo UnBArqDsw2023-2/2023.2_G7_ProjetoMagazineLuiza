@@ -4,8 +4,11 @@ O Léxico é uma notação que, por meio da descrição de termos, tem como obje
 
 ## Metodologia
 
-Para a confeccção dos léxicos, utilizamos a notação do Léxico Ampliado da Linguagem (LAL) [1](#Referências-Bibliográficas), com os conceitos explicitados na Tabela 1, já o template utilizado está presente na Tabela 2: 
-<figure markdown>
+Para a confeccção dos léxicos, utilizamos a notação do Léxico Ampliado da Linguagem (LAL) [1](#Referências-Bibliográficas), com os conceitos explicitados na Tabela 1, já o template utilizado está presente na Tabela 2:
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Léxicos do tipo LAL</p></font>
 
 | Tipo do símbolo | Noção | Impacto |
@@ -16,12 +19,14 @@ Para a confeccção dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado descrito  |
 
 <!-- <font size="3"><p style="text-align: center">Fonte: LEITE<a id="anchor_1" href="#REF1"><sup>1</a>.</p></font> -->
-Fonte: LEITE[<sup>1](#referências-bibliográficas)
+<font size="3"><p style="text-align: center">Fonte: LEITE[<sup>1](#referências-bibliográficas)</p></font>
+</div>
 
-</figure>
 
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 20%">
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos</p></font>
 
 | ID | Descrição |
@@ -32,7 +37,7 @@ Fonte: LEITE[<sup>1](#referências-bibliográficas)
 | Dicionário | Sinônimos |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ## Léxicos
 
@@ -40,7 +45,9 @@ Fonte: LEITE[<sup>1](#referências-bibliográficas)
 
 O primeiro Léxico, presente na Tabela 3, representa a função de cadastro do usuário.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Léxico 01: Cadastrar (L01)</p></font>
 
 | L01 | Descrição |
@@ -51,13 +58,15 @@ O primeiro Léxico, presente na Tabela 3, representa a função de cadastro do u
 | Dicionário | Registrar, inscrever ou fichar. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ### L02: Comprar
 
 O segundo Léxico, presente na Tabela 4, detalha a ação de comprar.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Léxico 02: Comprar (L02)</p></font>
 
 | L02 | Descrição |
@@ -68,13 +77,15 @@ O segundo Léxico, presente na Tabela 4, detalha a ação de comprar.
 | Dicionário | Adquirir ou realizar pedido. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ### L03: Cadastrado
 
 O terceiro Léxico, presente na Tabela 5, detalha o estado de um usuário cadastrado.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Léxico 03: Cadastrado (L03)</p></font>
 
 
@@ -86,13 +97,15 @@ O terceiro Léxico, presente na Tabela 5, detalha o estado de um usuário cadast
 | Dicionário | Registrado ou inscrito. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ### L04: Salvar endereço
 
 O quarto Léxico, presente na Tabela 6, se refere ao registro de endereços em uma conta.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Léxico 04: Salvar endereço (L04)</p></font>
 
 
@@ -104,13 +117,15 @@ O quarto Léxico, presente na Tabela 6, se refere ao registro de endereços em u
 | Dicionário | Registrar ou cadastrar endereço. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ### L05: Usuário
 
-O quinto Léxico, presente na Tabela 7, 
+O quinto Léxico, presente na Tabela 7, representa o usuário.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Léxico 05: Usuário (L05)</p></font>
 
 | L05 | Descrição |
@@ -121,13 +136,15 @@ O quinto Léxico, presente na Tabela 7,
 | Dicionário | Cliente, comprador ou consumidor. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ### L06: Acompanhar pedido
 
-O sexto Léxico, presente na Tabela 8,
+O sexto Léxico, presente na Tabela 8, descreve a ação de acompanhar pedido.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Léxico 06: Acompanhar pedido (L06)</p></font>
 
 | L06 | Descrição |
@@ -138,13 +155,15 @@ O sexto Léxico, presente na Tabela 8,
 | Dicionário | Detalhar pedido. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ### L07: Pedido confirmado
 
 O sétimo Léxico, presente na Tabela 9, detalha o estado de pedido confirmado.
 
-<figure markdown>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Léxico 07: Pedido confirmado (L07)</p></font>
 
 | L07 | Descrição |
@@ -155,7 +174,7 @@ O sétimo Léxico, presente na Tabela 9, detalha o estado de pedido confirmado.
 | Dicionário | Pedido realizado. |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3).</p></font>
-</figure>
+</div>
 
 ## Referências Bibliográficas
 
