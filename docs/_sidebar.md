@@ -10,6 +10,7 @@
       - [1.1.x Plano de Tempo](Base/Planos_Risco_Custo_Tempo/1.1.xplano-tempo.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](Base/1.3.ParticipacoesBase.md)
+    - [1.1.x Plano de Risco e Tempo](Base/1.1.xplano-risco-temp.md)
 
 <!-- - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
