@@ -9,6 +9,7 @@
     - [1.1.3. Diagrama Causa-Efeito](Base/1.1.3.causa-efeito.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](Base/1.3.ParticipacoesBase.md)
+    - [1.6. Léxicos - Base](Base/lexicos.md)
 
 <!-- - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
