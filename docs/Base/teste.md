@@ -1,10 +1,10 @@
 ## Introdução
 
-Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de alta fidelidade feito para o fluxo perfil comprador, e fluxos compreendidos do cadastro na plataforma até visualização/compra/pagamento de produtos.
+Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de alta fidelidade feito para o fluxo perfil comprador, e fluxos compreendidos do cadastro na plataforma até visualização .
 
 ## Metodologia 
 
-O teste foi realizado com apenas um usuário, visto que a adaptação da equipe à Design Sprint não possibilitou um planejamento do teste, o qual não havia sido previsto. No entanto, o teste foi realizado para atender os seguintes objetivos (Hix e Hartson, 1993Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007; apud BARBOSA e SILVA, 2011, p. 290):
+O teste foi realizado com apenas um usuário, visto que a adaptação da equipe à Design Sprint não possibilitou um planejamento do teste, o qual não havia sido previsto. O usuário também precisou falar o que iria fazer em voz alta. No entanto, o teste foi realizado para atender os seguintes objetivos (Hix e Hartson, 1993Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007; apud BARBOSA e SILVA, 2011, p. 290):
 
 - ideias e alternativas de design;
 - conformidade com um padrão;
@@ -31,13 +31,15 @@ Ao iniciar a gravação, apresentou-se o termo de consentimento, que já havia s
 
 ## Entrevista
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/ETh2caVVGQE" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ETh2caVVGQE"></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
+## Conclusão
 
+No decorrer da entrevista, o usuário conseguiu navegar até a página para selecionar o produto que foi orientado para escolha. No entanto, ao acessar a página do produto, o usuário demonstrou certa dificuldade em localizar as informações do produto, devido ao tamanho e cor da fonte. Além disso, pode-se notar uma ausência de uma tabela, que daria maior destaque às informações. Dado que o usuário demonstrou interesse por outros aspectos da página durante a interação.
 
 ## Referências Bibliográficas
 
@@ -47,4 +49,5 @@ Ao iniciar a gravação, apresentou-se o termo de consentimento, que já havia s
 
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 15/09/2023 | Resultado do teste.                           | [Arthur de Melo](https://github.com/arthurmlv) | [Sidney Fernando](https://github.com/nando3d3) |
+| `1.0`  | 15/09/2023 | Resultado do teste.                           | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.1`  | 15/09/2023 | Adição do vídeo do teste.                           | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
