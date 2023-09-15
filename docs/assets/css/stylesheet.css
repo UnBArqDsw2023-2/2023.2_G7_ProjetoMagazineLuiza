@@ -1,0 +1,98 @@
+.markdown-section iframe[src*="buttons.github.io"] {
+  margin: 0;
+}
+
+figure.thumbnails img {
+  margin: 0.75em 0;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1), 0 4px 12px rgba(0,0,0,0.15);
+}
+
+@media (min-width: 30em) {
+  figure.thumbnails:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  figure.thumbnails img {
+      float: left;
+      width: calc(50% - 0.75em);
+  }
+
+  figure.thumbnails img:nth-child(even) {
+      margin-left: 1.5em;
+  }
+
+  @supports (display: flex) {
+      figure.thumbnails {
+          display: flex;
+          align-items: center;
+      }
+
+      figure.thumbnails img {
+          flex-grow: 1;
+          width: 0;
+      }
+
+      figure.thumbnails img + img {
+          margin: 0 0 0 1.5em;
+      }
+  }
+}
+
+/* Base
+============================================================================= */
+:root {
+    --base-background-color: #fff;
+    --base-color           : var(--mono-shade2);
+    --base-font-family     : -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --base-font-size       : 19px;
+    --base-font-weight     : normal;
+    --base-letter-spacing  : ;
+    --base-line-height     : 1.7;
+
+    /* Emoji */
+    --emoji-size           : calc(var(--base-line-height) * 1em);
+
+    /* Horizontal Rule */
+    --hr-border            : 1px solid var(--mono-tint2);
+
+    /* Mark */
+    --mark-background      : #ffecb3;
+    --mark-color           : ;
+
+    /* Preformatted */
+    --pre-font-family      : var(--code-font-family);
+    --pre-font-size        : var(--code-font-size);
+    --pre-font-weight      : normal;
+    --pre-line-height      : ;
+
+    /* Selection */
+    --selection-color      : #b4d5fe;
+
+    /* Small */
+    --small-font-size      : var(--font-size-s);
+
+    /* Strong */
+    --strong-color         : #0086ff;
+    --strong-font-weight   : 600;
+
+    /* Sub/Sup */
+    --subsup-font-size     : var(--font-size-s);
+
+    /* Links */
+    --link-border-bottom                : ;
+    --link-border-bottom--hover         : ;
+    --link-color                        : #0086ff;
+    --link-color--hover                 : #0086ff;
+    --link-text-decoration              : ;
+    --link-text-decoration--hover       : underline;
+    --link-text-decoration-color        : ;
+    --link-text-decoration-color--hover : ;
+
+    --content-max-width                 :60em;
+
+    --blockquote-padding                : 0em;
+    
+}
