@@ -8,7 +8,13 @@ O storyboard foi baseado no artefato [Rich Picture](https://unbarqdsw2023-2.gith
 
 ## Storyboard do fluxo perfil comprador
 
-![](assets/storyboard_magalu.png)
+<p align="center">
+    <a href="assets/storyboard_magalu.png"><img src="assets/storyboard_magalu.png" alt="Storyboard" width="800"/></a></br>
+</p>
+
+<div style="text-align:center;">
+Autor: Geovanna Maciel
+</div>
 
 ## Referências Bibliográficas
 > PREECE, Jennifer, SHARP, Helen, ROGERS, Yvonne. Interaction Design: beyond human-computer interaction. John Wiley & Sons, 2015.
