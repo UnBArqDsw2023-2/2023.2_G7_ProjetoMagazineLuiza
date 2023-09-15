@@ -10,6 +10,7 @@
     - [Mapa Mental](Base/1.3.MapaMental.md)
     - [Rich Picture](Base/1.4.RichPicture.md)
     - [Teste](Base/teste.md)
+    - [Storyboard](Base/storyboard.md)
   - [1.2. Módulo Processos/Metodologias/Abordagens](Base/1.2.ProcessosMetodologiasAbordagens.md)
   - [1.3. Participações - Base](Base/1.3.ParticipacoesBase.md)
 
