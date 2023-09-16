@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Segundo Sommerville (2016)[¹](#ancora1), a prototipação envolve a criação de um modelo do sistema que é disponibilizado aos clientes e usuários para que eles possam interagir com o sistema e determinar se ele atende às suas necessidades. Com esse objetivo foram desenvolvido alguns protótipos com o auxilio da ferramenda Figma[²](#ancora2). Esse protótipo implementa o fluxo do [storyboard]() e corresponde a 4ª etapa da [design sprint]().
+Segundo Sommerville (2016)[¹](#ancora1), a prototipação envolve a criação de um modelo do sistema que é disponibilizado aos clientes e usuários para que eles possam interagir com o sistema e determinar se ele atende às suas necessidades. Com esse objetivo foram desenvolvido alguns protótipos com o auxilio da ferramenda Figma[²](#ancora2). Esse protótipo implementa o fluxo do [storyboard](Base/storyboard.md) e corresponde a 4ª etapa da [design sprint](Base/1.1.AbordagemNaoEspecifica.md   ).
 
 ## Participantes
 

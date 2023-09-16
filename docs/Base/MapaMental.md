@@ -31,7 +31,7 @@ Para a relização do mapa mental, fizemos uma sessão de branstorming idealizan
 * Falta de atendimento online ao cliente e
 * Desempenho lento do site.
 
-A longo prazo, o problema idenficado foi **dificuldade do usuário de encontrar o produto desejado**, esse será o problema tratado pela equipe ao decorrer da disciplina. O problema a curto prazo estará detalhado no artefato [5W2H)]() e também estará presente na [Design Sprint]().
+A longo prazo, o problema idenficado foi **dificuldade do usuário de encontrar o produto desejado**, esse será o problema tratado pela equipe ao decorrer da disciplina. O problema a curto prazo estará detalhado no artefato [5W2H](Base/5W2H.md) e também estará presente na [Design Sprint](Base/1.1.AbordagemNaoEspecifica.md).
 
 ## Visualização no Miro
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMlLkH4M=/?moveToViewport=-3357,-1315,1028,1032&embedId=34743970085" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
