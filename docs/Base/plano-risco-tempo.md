@@ -228,7 +228,8 @@ O planejamento em ondas sucessivas (Rolling Wave Planning) é uma estratégia qu
 
 **Figura 1** - Demonstração dos estágios do Rolling Wave Planning
 
-![Figura Rolling Wave Planning](../../assets/RollingWavePlanning.png)
+<!-- ![Figura Rolling Wave Planning](../../assets/RollingWavePlanning.png) -->
+<img src='assets/RollingWavePlanning.png'>
 
 <font style='text-align: center;'>Disponível em: https://urx1.com/2CISz</font>
 
