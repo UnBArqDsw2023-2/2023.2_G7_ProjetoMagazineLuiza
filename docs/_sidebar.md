@@ -1,6 +1,8 @@
 <!-- markdownlint-disable-next-line first-line-heading -->
 
 - [**Home**](README.md)
+  - [Atas Reuniões]()
+    - [Ata 2](atas/ata2.md)
 - [**Diretrizes**](Diretrizes/Diretrizes.md)
 - [**1. Desenho de Software (Base)**](Base/1.Base.md)
   - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](Base/1.1.AbordagemNaoEspecifica.md)
