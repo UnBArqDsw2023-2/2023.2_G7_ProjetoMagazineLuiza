@@ -13,9 +13,10 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante num d
             width: 60%">
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Participantes</p></font>
 
-| Participantes   | Fluxo do diagrama  |
+| Participantes   | Etapas  |
 |-----------------|:------------:|
-| [Arthur de Melo](https://github.com/arthurmlv), [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs) | Compra |
+| [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | Compra versão 1 |
+| [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | Compra e Busca versão 2 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 </div>
@@ -24,6 +25,8 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante num d
 
 ## Diagramas produzidos
 
+### Versão 1
+botar senso critico
 <center>
 
 Figura 1 - Diagrama de Compra
@@ -31,9 +34,22 @@ Figura 1 - Diagrama de Compra
 <div style="margin-left: auto;
             margin-right: auto;
             width: 80%">
-<img src="assets/pacotes-compra1.png" alt="Diagrama Causa-Efeito" width="1000"/>
+<img src="assets/pacotes-compra1.png" alt="Diagrama de Pacotes" width="1000"/>
 
 </div>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+### Versão 2
+botar senso critico
+<center>
+Figura 2 - Diagrama de Compra e Busca de produtos
+
+<p align="center">
+    <img src="assets/DiagramaPacotes/Diagrama1.png" alt="Diagrama de Pacotes" width="1000"/></a></br>
+</p>
 
 <font>Fonte: Autores, 2023</font>
 
@@ -54,3 +70,4 @@ Figura 1 - Diagrama de Compra
 | 1.0      | Criação da página   | [Geovanna Maciel](https://github.com/manuziny)   | [Arthur de Melo](https://github.com/arthurmlv)   | 27/09/2023|
 | 1.1      | Adição da introdução e referencias bibliograficas   |  [Douglas Alves](https://github.com/dougAlvs)  | [Geovanna Maciel](https://github.com/manuziny)   | 27/09/2023|
 | 1.2      | Adição do diagrama inicial de compra   |  [Arthur de Melo](https://github.com/arthurmlv)  | [Douglas Alves](https://github.com/manuziny)   | 27/09/2023|
+| 1.3      | Adição das versões do diagrama | [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny)   |  [Matheus Henrique](https://github.com/mathonaut)  | 27/09/2023|
