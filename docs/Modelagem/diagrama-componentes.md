@@ -15,7 +15,7 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 
 | Participantes   | Etapas  |
 |-----------------|:------------:|
-
+|[Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax) | Diagrama de Componentes versão 1 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 </div>
@@ -25,6 +25,16 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 ## Diagramas produzidos
 
 ### Versão 1
+
+<center>
+
+Figura 1 - Diagrama de Componentes Inicial
+
+<img src="assets/diagrama-componentes/diagrama-componentes1.png" alt="Diagrama de Pacotes" width="1400"/>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
 
 
 
@@ -40,3 +50,4 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Criação da página e adição da introdução   | [Douglas Alves](https://github.com/dougAlvs)   | [Maciel Júnior](https://github.com/macieljuniormax)   | 30/09/2023|
+| 1.1      | Adição da v1 do diagrama   | [Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax)   | [Hellen Fernanda](https://github.com/Hellen159)  | 30/09/2023|
