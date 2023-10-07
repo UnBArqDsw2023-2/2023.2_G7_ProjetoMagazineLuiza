@@ -15,8 +15,9 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante num d
 
 | Participantes   | Etapas  |
 |-----------------|:------------:|
+| [Geovanna Maciel](https://github.com/manuziny) | Busca e Compra com MVC |
 | [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | Compra versão 1 |
-| [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | Compra e Busca versão 2 |
+| [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | Busca e Compra versão 2 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 </div>
@@ -25,11 +26,29 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante num d
 
 ## Diagramas produzidos
 
+### Versão 1 com MVC
+Para a produção do diagrama na figura 1, inicialmente consideramos a adoção do padrão arquitetural Modelo-Visão-Controladora (MVC) como uma abordagem para melhor visualização e organização do sistema. Porém surgiram muitas dúvidas se estava realmente aplicável ou coerente com o que seria desenvolvido posteriormente na disciplina. Assim, decidimos explorar alternativas que não dependessem do modelo MVC, buscando assegurar que nosso diagrama refletisse de maneira precisa e apropriada os requisitos e a natureza do projeto.
+<center>
+
+Figura 1 - Diagrama de Busca e Compra com MVC
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 80%">
+<img src="assets/diagramapacotesmvc.png" alt="Diagrama de Pacotes com MVC" width="1000"/>
+
+</div>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+
 ### Versão 1
 botar senso critico
 <center>
 
-Figura 1 - Diagrama de Compra
+Figura 2 - Diagrama de Compra
 
 <div style="margin-left: auto;
             margin-right: auto;
@@ -45,8 +64,7 @@ Figura 1 - Diagrama de Compra
 ### Versão 2
 botar senso critico
 <center>
-Figura 2 - Diagrama de Compra e Busca de produtos
-
+Figura 3 - Diagrama de Busca e Compra  de produtos 
 <p align="center">
     <img src="assets/DiagramaPacotes/Diagrama1.png" alt="Diagrama de Pacotes" width="1000"/></a></br>
 </p>
@@ -71,3 +89,4 @@ Figura 2 - Diagrama de Compra e Busca de produtos
 | 1.1      | Adição da introdução e referencias bibliograficas   |  [Douglas Alves](https://github.com/dougAlvs)  | [Geovanna Maciel](https://github.com/manuziny)   | 27/09/2023|
 | 1.2      | Adição do diagrama inicial de compra   |  [Arthur de Melo](https://github.com/arthurmlv)  | [Douglas Alves](https://github.com/manuziny)   | 27/09/2023|
 | 1.3      | Adição das versões do diagrama | [Arthur de Melo](https://github.com/arthurmlv),  [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny)   |  [Matheus Henrique](https://github.com/mathonaut)  | 27/09/2023|
+| 1.4      | Adição do diagrama com MVC |  [Geovanna Maciel](https://github.com/manuziny)  |  [Arthur de Melo](https://github.com/arthurmlv)  | 07/10/2023 |
