@@ -33,7 +33,7 @@ Em relação ao diagrama em si, eles são representados por pacotes e suas rela�
 
 ### Versão 1 com MVC
 
-Para a produção do diagrama na figura 1, inicialmente consideramos a adoção do padrão arquitetural Modelo-Visão-Controladora (MVC) como uma abordagem para melhor visualização e organização do sistema. Porém surgiram muitas dúvidas se estava realmente aplicável ou coerente com o que seria desenvolvido posteriormente na disciplina. Assim, decidimos explorar alternativas que não dependessem do modelo MVC, buscando assegurar que nosso diagrama refletisse de maneira precisa e apropriada os requisitos e a natureza do projeto.
+Para a produção do diagrama na Figura 1, inicialmente consideramos a adoção do padrão arquitetural Modelo-Visão-Controladora (MVC) como uma abordagem para melhor visualização e organização do sistema. Porém surgiram muitas dúvidas se estava realmente aplicável ou coerente com o que seria desenvolvido posteriormente na disciplina. Assim, decidimos explorar alternativas que não dependessem do modelo MVC, buscando assegurar que nosso diagrama refletisse de maneira precisa e apropriada os requisitos e a natureza do projeto.
 
 <center>
 
@@ -52,7 +52,7 @@ Figura 1 - Diagrama de Busca e Compra com MVC
 
 ### Versão 1
 
-botar senso critico
+Paralelamente ao diagrama que utilizava o MVC, foi elaborado outro, mostrado na Figura 2, mas que não utilizava diretamente os conceitos de model, view e controller. Este diagrama representa alguns pacotes básicos e suas dependências. Porém por ser simplesmente um rascunho inicial, apresenta tudo isso de forma bem simples.
 
 <center>
 
@@ -71,7 +71,7 @@ Figura 2 - Diagrama de Compra
 
 ### Versão 2
 
-botar senso critico
+Nessa segunda versão do diagrama, mostrada na Figura 3, algumas semânticas da notação foram melhor aproveitadas, passamos a utilizar os elementos <\<merge>>, <\<use>>, <\<acess>> e <\<import>>. Assim, houve um maior detalhamento de alguns pacotes (por exemplo o "interface com o usuário") com a especificação das relações entre eles.
 
 <center>
 Figura 3 - Diagrama de Busca e Compra  de produtos 
@@ -101,3 +101,4 @@ Figura 3 - Diagrama de Busca e Compra  de produtos
 | `1.3`  | Adição das versões do diagrama                    | [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut) | 27/09/2023 |
 | `1.4`  | Adição do diagrama com MVC                        | [Geovanna Maciel](https://github.com/manuziny)                                                                                                | [Arthur de Melo](https://github.com/arthurmlv)   | 07/10/2023 |
 | `1.5`  | Adição do rascunho da metodologia                 | [Matheus Henrique](https://github.com/mathonaut)                                                                                              | [Geovanna Maciel](https://github.com/manuziny)   | 08/10/2023 |
+| `1.6`  | Adição da motivação de elaboração dos diagramas versão 1 e 2   |  [Douglas Alves](https://github.com/dougAlvs)                                                                                              | [Sidney Fernando](https://github.com/nando3d3)   | 08/10/2023 |
