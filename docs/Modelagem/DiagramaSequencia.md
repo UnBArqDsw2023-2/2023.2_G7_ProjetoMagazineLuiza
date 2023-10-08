@@ -93,3 +93,4 @@ _Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus He
 | ------ | ---------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 14/09/2023 | Criação da página, introdução e metodologia                                              | [Hellen Fernanda](https://github.com/Hellen159)  | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1`  | 07/10/2023 | Ajuste no texto de introdução, organização das seções e adição da seção de participantes | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
+| `1.2`  | 07/10/2023 | Adiciona diagramas geral e de cadastro                                                   | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
