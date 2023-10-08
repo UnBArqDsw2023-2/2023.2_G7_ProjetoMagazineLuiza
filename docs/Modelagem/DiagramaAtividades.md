@@ -28,9 +28,11 @@ A perspectiva condicional do diagrama foi feita com base nas decisões e nas int
 
 ## Diagramas produzidos
 
+A Figura 1 representa a primeira versão do diagrama de atividades de cadastro e de acesso. Já a Figura 2 retrata o diagrama de atividades da ação de compra.
+
 ### Versão 1
 
-A figura 1 representa a primeira versão do diagrama de atividades de cadastro e de acesso. Já a figura 2 retrata o diagrama de atividades da ação de compra.
+Na Figura 1, para cadastrar o comprador, compreende-se que o [usuário](base/lexicos.md#l05-usuário) se torna [cadastrado](base/lexicos.md#l03-cadastrado) após um processo de validação do e-mail e de seus dados. Ao confirmar o e-mail, o usuário pode simplesmente finalizar a tarefa ou acessar sua conta. O processo de acessar a conta se trata de preencher e-mail, preencher senha e verificar os dados de autenticação. Caso os dados estejam corretos, o [usuário](base/lexicos.md#l05-usuário) pode prosseguir para outra atividade ou realizar uma [compra](base/lexicos.md#l02-comprar).
 
 <center>
 
@@ -42,6 +44,9 @@ Figura 1 - Diagrama de Atividades: Cadastro e Acesso
 
 </center>
 
+A realização de uma [compra](base/lexicos.md#l02-comprar) envolve, inicialmente, duas formas de encontrar um [produto](base/lexicos.md#l08-produto): por meio de uma [busca](base/lexicos.md#l10-buscar) ou por meio de uma navegação no site. Uma [busca](base/lexicos.md#l10-buscar) se trata da busca por um [produto](base/lexicos.md#l08-produto) ou uma ideia de [produto](base/lexicos.md#l08-produto), podendo achar tal ou não. Já a navegação é quando o [usuário](base/lexicos.md#l05-usuário) não possui uma ideia específica do que procura. Portanto, ele [visualiza](base/lexicos.md#l09-visualizar) diversos produtos até achar ou não um de seu interesse.
+
+Após a [visualização](base/lexicos.md#l09-visualizar) do [produto](base/lexicos.md#l08-produto), ele pode adicionar à sacola ou procurar outros produtos e atualizar a sacola. Por fim, para realizar a compra, pode-se visualizar os itens da sacola e prosseguir com a [compra](base/lexicos.md#l02-comprar). Após isso, a escolha de destino pode se utilizar de um [endereço salvo](base/lexicos.md#l04-salvar-endereço), receber no endereço escolhido ou retirar na loja. Por fim, o método de pagamento é escolhido e, após realizar o pagamento, o pagamento é confirmado e o pedido é [confirmado](base/lexicos.md#l07-pedido-confirmado).
 
 <center>
 
@@ -55,13 +60,7 @@ Figura 2 - Diagrama de Atividades: Compra
 
 ## Conclusão
 
-Produzidos esses diagramas, foi possível analisar a lógica do procedimento que envolvem os léxicos do [usuário](base/lexicos.md#l05-usuário), [cadastrar](base/lexicos.md#l01-cadastrar), [comprar](base/lexicos.md#l02-comprar), [cadastrado](base/lexicos.md#l03-cadastrado), [pedido confirmado](base/lexicos.md#l07-pedido-confirmado), [produto](base/lexicos.md#l08-produto), [visualizar](base/lexicos.md#l09-visualizar) e [buscar](base/lexicos.md#l10-buscar). Na Figura 1, para cadastrar o comprador, compreende-se que o [usuário](base/lexicos.md#l05-usuário) se torna [cadastrado](base/lexicos.md#l03-cadastrado) após um processo de validação do e-mail e de seus dados. Ao confirmar o e-mail, o usuário pode simplesmente finalizar a tarefa ou acessar sua conta.
-
-O processo de acessar a conta se trata de preencher e-mail, preencher senha e verificar os dados de autenticação. Caso os dados estejam corretos, o [usuário](base/lexicos.md#l05-usuário) pode prosseguir para outra atividade ou realizar uma [compra](base/lexicos.md#l02-comprar). A realização de uma [compra](base/lexicos.md#l02-comprar) envolve, inicialmente, duas formas de encontrar um [produto](base/lexicos.md#l08-produto): por meio de uma [busca](base/lexicos.md#l10-buscar) ou por meio de uma navegação no site. Uma [busca](base/lexicos.md#l10-buscar) se trata da busca por um [produto](base/lexicos.md#l08-produto) ou uma ideia de [produto](base/lexicos.md#l08-produto), podendo achar tal ou não. Já a navegação é quando o [usuário](base/lexicos.md#l05-usuário) não possui uma ideia específica do que procura. Portanto, ele [visualiza](base/lexicos.md#l09-visualizar) diversos produtos até achar ou não um de seu interesse.
-
-Após a [visualização](base/lexicos.md#l09-visualizar) do [produto](base/lexicos.md#l08-produto), ele pode adicionar à sacola ou procurar outros produtos e atualizar a sacola. Por fim, para realizar a compra, pode-se visualizar os itens da sacola e prosseguir com a [compra](base/lexicos.md#l02-comprar). Após isso, a escolha de destino pode se utilizar de um [endereço salvo](base/lexicos.md#l04-salvar-endereço), receber no endereço escolhido ou retirar na loja. Por fim, o método de pagamento é escolhido e, após realizar o pagamento, o pagamento é confirmado e o pedido é [confirmado](base/lexicos.md#l07-pedido-confirmado).
-
-Isso posto, infere-se que, após e durante a confecção do diagrama de atividades, pôde-se analisar apropriadamente as idiossincrasias das atividades e desenvolver novas visões acerca das atividades principais do projeto. Portanto, tal artefato complementa os léxicos de forma significativa.
+Produzidos esses diagramas, foi possível analisar a lógica do procedimento que envolvem os léxicos do [usuário](base/lexicos.md#l05-usuário), [cadastrar](base/lexicos.md#l01-cadastrar), [comprar](base/lexicos.md#l02-comprar), [cadastrado](base/lexicos.md#l03-cadastrado), [pedido confirmado](base/lexicos.md#l07-pedido-confirmado), [produto](base/lexicos.md#l08-produto), [visualizar](base/lexicos.md#l09-visualizar) e [buscar](base/lexicos.md#l10-buscar). Isso posto, infere-se que, após e durante a confecção do diagrama de atividades, pôde-se analisar apropriadamente as idiossincrasias das atividades e desenvolver novas visões acerca das atividades principais do projeto. Portanto, tal artefato complementa os léxicos de forma significativa.
 
 ## Referências Bibliográficas
 
