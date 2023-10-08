@@ -18,6 +18,7 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante num d
 | [Geovanna Maciel](https://github.com/manuziny)                                                                                                | Busca e Compra com MVC  |
 | [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) |     Compra versão 1     |
 | [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | Busca e Compra versão 2 |
+| [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) | Modelo definitivo com Cadastro, Busca e Compra com MVC |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 
@@ -83,6 +84,21 @@ Figura 3 - Diagrama de Busca e Compra  de produtos
 
 </center>
 
+## Diagrama Definido
+Após discussões entre o grupo e com o feedback a professora, optamos por voltar ao padrão arquitetural Modelo-Visão-Controladora (MVC) presente na Figura 4. Com a finalidade de aumentar a granularidade, optou-se por adicionar as classes e suas relações dentro do pacote "model", atualização da "controller" com pacotes mais específicos das requisições do usuário na "view".
+
+<center>
+Figura 4 - Diagrama de Busca e Compra  de produtos 
+<p align="center">
+    <img src="assets/diagrama-pacotes-mvc2.png" alt="Diagrama de Pacotes com MVC" width="1000"/></a></br>
+</p>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+## Conclusão
+
 ## Referências Bibliográficas
 
 > FOWLER, Martin. UML Essencial: um breve guia para linguagem padrão. Bookman editora, 2014.
@@ -102,3 +118,4 @@ Figura 3 - Diagrama de Busca e Compra  de produtos
 | `1.4`  | Adição do diagrama com MVC                        | [Geovanna Maciel](https://github.com/manuziny)                                                                                                | [Arthur de Melo](https://github.com/arthurmlv)   | 07/10/2023 |
 | `1.5`  | Adição do rascunho da metodologia                 | [Matheus Henrique](https://github.com/mathonaut)                                                                                              | [Geovanna Maciel](https://github.com/manuziny)   | 08/10/2023 |
 | `1.6`  | Adição da motivação de elaboração dos diagramas versão 1 e 2   |  [Douglas Alves](https://github.com/dougAlvs)                                                                                              | [Sidney Fernando](https://github.com/nando3d3)   | 08/10/2023 |
+| `1.7`  | Adição do diagrama definito e sua motivação  | [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut)                                                                                       |  [Sidney Fernando](https://github.com/nando3d3)  | 08/10/2023 |
