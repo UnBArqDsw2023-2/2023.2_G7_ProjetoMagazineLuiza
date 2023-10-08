@@ -37,10 +37,11 @@ Para facilitar a compreensão do sistema, dividimos o diagrama em duas interaç�
 
 É importante destacar que nossa escolha deliberada foi se concentrar nas interações de cadastro, busca e compra, sem incluir outros fluxos que possam ser necessários para alcançar essas etapas. O objetivo é proporcionar uma compreensão detalhada e aprofundada dessas interações específicas, com o intuito de aprimorar ainda mais a experiência do usuário e otimizar o desempenho do sistema da Magazine Luiza nessas áreas-chave.
 
-## Versões Produzidas
+## Diagrama Produzido
 
 ### Versão 1 - Cadastro
-!! botar senso critico
+No contexto do fluxo de cadastro do Comprador, que é o usuário principal do sistema conforme ilustrado na Figura 1, notamos que o diagrama acabou por se mostrar relativamente simples e conciso. Durante o processo de concepção, não surguram sugestões adicionais para expandir ou enriquecer o diagrama por meio da inclusão de mais elementos ou componentes. Mas essa simplicidade não necessariamente implica uma insuficiência na representação do processo, mas sim uma precisão na exposição das etapas envolvidas no cadastro do Comprador.
+
 <center>
 
 Figura 1 - Diagrama de Cadasro
@@ -57,10 +58,11 @@ Figura 1 - Diagrama de Cadasro
 </center>
 
 ### Versão 1 - Busca e Compra
-!! botar senso critico
+A elaboração do diagrama que representa o fluxo de compra e busca também se manteve simples, levantando algumas incertezas em relação ao seu nível de detalhamento, questionando se este se mostrava suficiente e abrangente ou se permanecia superficial, incapaz de capturar plenamente o processo completo de compra e busca. Após análises e discussões conduzidas em reuniões dedicadas a este propósito, a Figura 2 foi o resultado final da diagramação desse fluxo, com as considerações e aprimoramentos resultantes das discussões em equipe.
+
 <center>
 
-Figura 1 - Diagrama de Busca e Compra
+Figura 2 - Diagrama de Busca e Compra
 
 <div style="margin-left: auto;
             margin-right: auto;
@@ -73,9 +75,10 @@ Figura 1 - Diagrama de Busca e Compra
 
 </center>
 
-## Diagramada de Comunicação Definido
-
 ## Conclusões
+O diagrama de comunicação foi feito para salientar os vínculos existentes entre os fluxos, envolvendo os léxicos [usuário](base/lexicos.md#l05-usuário), [cadastrar](base/lexicos.md#l01-cadastrar), [comprar](base/lexicos.md#l02-comprar), [cadastrado](base/lexicos.md#l03-cadastrado), [pedido confirmado](base/lexicos.md#l07-pedido-confirmado), [produto](base/lexicos.md#l08-produto), [visualizar](base/lexicos.md#l09-visualizar) e [buscar](base/lexicos.md#l10-buscar), além de ser bom para explorar alternativas. Mesmo com suas semelhanças com o [Diagrama de Sequência](), o diagrama de comunicação foi feito para ser um complementar ao projeto.
+
+Em suma, a escolha do diagrama de comunicação como ferramenta de representação para esses fluxos é uma abordagem estratégica que contribui para a precisão, eficiência, melhoria contínua e alinhamento em projetos que envolvem processos complexos de interação.
 
 ## Referências Bibliográficas
 > <a id="ancora1"></a> 1. FOWLER, Martin. UML essencial. Grupo A, 2011. E-book. ISBN 9788560031382. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788560031382/. Acesso em: 30 Sep 2023.
@@ -92,3 +95,5 @@ Figura 1 - Diagrama de Busca e Compra
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 29/09/2023 | Adição da versão inicial do diagrama, introdução e referências.         | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) | 
 | `1.1`  | 07/10/2023 | Adição da metodologia         | [Geovanna Maciel](https://github.com/manuziny) | [Debora Caires](https://github.com/deboracaires) | 
+| `1.2`  | 08/10/2023 | Adição do tópico artefato        | [Debora Caires](https://github.com/deboracaires) | [Geovanna Maciel](https://github.com/manuziny) | 
+| `1.3`  | 08/10/2023 | Adição da conclusão      | [Geovanna Maciel](https://github.com/manuziny) |  [Arthur de Melo](https://github.com/arthurmlv) | 
