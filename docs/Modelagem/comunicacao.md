@@ -24,7 +24,18 @@ Para a execução do diagrama, os participantes estudaram individualmente o mate
 
 No desenvolvimento do diagrama, cada participante desempenhou um papel fundamental ao contribuir com suas ideias e opiniões em relação ao diagrama de comunicação. O desenvolvimento no Lucidchart ajudou a manter o trabalho dinâmico, pois a colaboração foi ativa e diversificada de todos os membros da equipe, o que enriqueceu significativamente o processo de criação do diagrama. 
 
-Os integrantes com mais exeperiência em diagramação foram essenciais para o trabalho, pois ajudou a "destravar" os participantes que estavam com dúvidas em relação às notações e aos fluxos.
+Os integrantes com mais experiência em diagramação foram essenciais para o trabalho, pois ajudou a "destravar" os participantes que estavam com dúvidas em relação às notações e aos fluxos.
+
+## Artefato
+O artefato desenvolvido tem como principal propósito esclarecer o funcionamento do sistema do site da Magazine Luiza em duas interações cruciais: a primeira relacionada ao processo de cadastro na plataforma e a segunda relacionada à busca e compra de produtos. Este diagrama de comunicação foi meticulosamente elaborado para proporcionar uma visão transparente das mensagens e do fluxo de informações entre os diversos elementos do sistema.
+
+Para facilitar a compreensão do sistema, dividimos o diagrama em duas interações distintas, cada uma delas representando uma etapa importante do processo de compra:
+
+1. __Interação de Cadastro na Plataforma__: Iniciamos com a interação de cadastro, onde o usuário cria uma conta na plataforma da Magazine Luiza. Este processo envolve a coleta de informações do usuário e os passos necessários para se registrar na plataforma.
+
+2. __Interação de Busca e Compra de Produtos__: A segunda interação concentra-se no processo de busca e seleção de produtos. Detalhamos como o usuário navega pelo catálogo de produtos, pesquisa itens desejados e os adiciona ao carrinho de compras. Posteriormente, exploramos o processo de compra em si. Isso engloba a adição de produtos à sacola de compras, o processo de pagamento, a confirmação do pedido e a opção de escolha de entrega.
+
+É importante destacar que nossa escolha deliberada foi se concentrar nas interações de cadastro, busca e compra, sem incluir outros fluxos que possam ser necessários para alcançar essas etapas. O objetivo é proporcionar uma compreensão detalhada e aprofundada dessas interações específicas, com o intuito de aprimorar ainda mais a experiência do usuário e otimizar o desempenho do sistema da Magazine Luiza nessas áreas-chave.
 
 ## Versões Produzidas
 
