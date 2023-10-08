@@ -39,6 +39,8 @@ O grupo se reuniu via Discord para realizar uma sessão de estudo e planejamento
 
 Os diagramas foram construídos ao longo de um intervalo de uma semana (02/08 até 08/08) e sofreram alterações sucessivas que modificaram suas características e demonstraram a evolução na compreensão de como a aplicação funciona.
 
+### Diagrama Geral
+
 O primeiro diagrama elaborado foi o geral que representa em alto nível a relação entre o usuário e o sistema de e-commerce. A figura 1 apresenta esse diagrama.
 
 <center>
@@ -50,6 +52,8 @@ O primeiro diagrama elaborado foi o geral que representa em alto nível a relaç
 _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
+
+### Diagrama de Cadastro
 
 O segundo elaborado foi o de cadastro de usuário na aplicação. Esse cenário também foi modelado através do [Diagrama de Atividades: Cadastro e Acesso](linkar com o artefato de atividade). Uma versão inicial foi construída através de uma rascunho em papel e pode ser visualizada na figura 2.
 
@@ -67,15 +71,35 @@ Nota-se que essa primeira versão apresenta vários erros tanto conceituais e de
 
 <center>
 
-**Figura 2** - Diagrama de Sequência: Cadastro 2.0
+**Figura 3** - Diagrama de Sequência: Cadastro 2.0
 
-![Figura do rascunho do diagrama de sequência cadastro 2.0](../../assets/diagramas/sequencia/cadastro.png)
+![Figura do diagrama de sequência cadastro 2.0](../../assets/diagramas/sequencia/cadastro.png)
+
+_Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+### Diagrama de Compra
+
+O diagrama de compra foi construído de maneira um pouco diferente, nele algumas atividades foram omitidas (de visualização de produto e pagamento) para serem tratadas em diagramas separados. Além disso, objetos representando elementos de baixo nível como banco de dados e da própria aplicação foram retirados no intuito de simplificar a visualização. A figura 4 apresenta o diagrama.
+
+<center>
+
+**Figura 4** - Diagrama de Sequência: Compra
+
+![Figura do diagrama de sequência compra](../../assets/diagramas/sequencia/compra.png)
 
 _Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
 ## Conclusão
+
+Nesse artefato foi explorado o uso de diagramas de sequência para modelar o que o sistema de e-commerce da Magazine Luiza é capaz de fazer. Esses diagramas demonstraram ser uma ferramenta valiosa para modelar o fluxo de interações entre objetos no sistema, permitindo-nos compreender e comunicar de maneira eficaz como os diversos componentes se relacionam durante a execução de cenários específicos.
+
+Além disso, clareza e precisão na elaboração desses diagramas garantem que eles sejam uma ferramenta eficaz para a compreensão do sistema e de consulta futura. Também é importante destacar a atualização da documentação, que ocorreu de forma contínua garantindo que ela seja vista como uma fonte confiável de informações para a equipe.
+
+Desse modo, os diagramas de sequência UML desempenham um papel fundamental na modelagem e na documentação do sistema da Magazine Luiza, ajudando-nos a visualizar e analisar o fluxo de interações entre os objetos do sistema.
 
 ## Referências Bibliográficas
 
@@ -94,3 +118,4 @@ _Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus He
 | `1.0`  | 14/09/2023 | Criação da página, introdução e metodologia                                              | [Hellen Fernanda](https://github.com/Hellen159)  | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1`  | 07/10/2023 | Ajuste no texto de introdução, organização das seções e adição da seção de participantes | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
 | `1.2`  | 07/10/2023 | Adiciona diagramas geral e de cadastro                                                   | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
+| `1.3`  | 08/10/2023 | Adiciona diagrama de compra e texto de conclusão                                         | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
