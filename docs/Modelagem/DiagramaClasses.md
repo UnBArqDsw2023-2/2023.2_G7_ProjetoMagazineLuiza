@@ -10,8 +10,15 @@ Realizamos uma reunião por meio do Discord, na qual discutimos detalhadamente a
 
 ## Diagrama de Classes
 
+#### Versão 2.0
+
+<img src="../assets/diagrama-de-classes2.png"/>
+<p  align="center">Figura 1: Diagrama de Classes Versão 2.0</p>
+
+#### Versão 1.0
+
 <img src="../assets/diagrama-de-classes.png"/>
-<p  align="center">Figura 2: Diagrama de Classes</p>
+<p  align="center">Figura 2: Diagrama de Classes Versão 1.0</p>
 
 ## Conclusão
 
@@ -24,7 +31,9 @@ O artefato do diagrama de classes ofereceu ao grupo uma visão mais clara e conc
 
 ## Histórico de Versões
 
-| Versão | Descrição                 | Responsável                                                                                                                                                                                        | Revisor                                          | Data       |
-| ------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- |
-| 1.0    | Criação do artefato       | [Hellen Fernanda](https://github.com/Hellen159), [Laura Pinos](https://github.com/laurapinos), [Maciel Júnior](https://github.com/macieljuniormax), [Sidney Fernando](https://github.com/nando3d3) | [Débora Caires](https://github.com/deboracaires) | 06/10/2023 |
-| 1.1    | Atualização na introdução | [Hellen Fernanda](https://github.com/Hellen159), [Laura Pinos](https://github.com/laurapinos), [Maciel Júnior](https://github.com/macieljuniormax), [Sidney Fernando](https://github.com/nando3d3) |                                                  |            |
+| Versão | Descrição                                                                | Responsável                                                                                                                                                                                        | Revisor                                          | Data       |
+| ------ | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- |
+| 1.0    | Criação do artefato                                                      | [Hellen Fernanda](https://github.com/Hellen159), [Laura Pinos](https://github.com/laurapinos), [Maciel Júnior](https://github.com/macieljuniormax), [Sidney Fernando](https://github.com/nando3d3) | [Débora Caires](https://github.com/deboracaires) | 06/10/2023 |
+| 1.1    | Atualização na introdução                                                | [Hellen Fernanda](https://github.com/Hellen159), [Laura Pinos](https://github.com/laurapinos), [Maciel Júnior](https://github.com/macieljuniormax), [Sidney Fernando](https://github.com/nando3d3) |
+| 2.0    | Adiciona semântica ao diagrama, corrige a relação entre pedido e cliente | [Hellen Fernanda](https://github.com/Hellen159), [Laura Pinos](https://github.com/laurapinos), [Maciel Júnior](https://github.com/macieljuniormax), [Sidney Fernando](https://github.com/nando3d3) |                                                  |            |
+|        |
