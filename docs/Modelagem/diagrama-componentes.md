@@ -21,11 +21,19 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 </div>
 
 ## Metodologia
+Para a produção deste artefato, foi adotada uma abordagem de aprendizado inicial, dedicando tempo para estudar de forma individual os materiais disponibilizados no Aprender 3 da disciplina, bem como consultando as valiosas [Referências Bibliográficas](#referências-bibliográficas) apresentadas no final deste documento. Esse processo de estudo individual permitiu que cada membro da equipe obtivesse uma compreensão sólida dos conceitos e informações relevantes para o projeto.
+
+Posteriormente, foi agendada uma reunião de trabalho no dia 30 de setembro de 2023, realizada de forma remota pelo Discord. Essa reunião se revelou uma etapa crítica no processo, uma vez que proporcionou um espaço para discussão, colaboração e integração das ideias de todos os participantes. Durante essa reunião de aproximadamente três horas, foram debatidos pontos-chave, dúvidas e estratégias para a criação do artefato. Nessa reunião, a plataforma Lucidchart desempenhou um papel fundamental. Essa ferramenta foi utilizada para desenvolver a primeira versão do artefato, permitindo a criação de diagramas de comunicação de forma colaborativa e eficaz. É relevante destacar que a participação de todos os envolvidos foi ativa e desempenhou um papel crucial no entendimento e no desenvolvimento do artefato. Cada membro trouxe perspectivas únicas e conhecimento específico que enriqueceram o trabalho em equipe.
+
+## Artefato
+O artefato desenvolvido neste documento foi criado com o objetivo principal de fornecer uma representação visual clara e concisa da estrutura do sistema relacionado ao processo de compra de produtos. O diagrama de componentes destaca os principais componentes envolvidos nesse processo, suas interfaces fornecidas e requeridas, bem como as relações e dependências entre eles.
+
+O principal objetivo deste artefato é facilitar o entendimento da arquitetura do sistema na parte de compra de produtos, destacando os elementos-chave que desempenham um papel crucial nesse processo. Isso inclui componentes relacionados à busca de produtos, gerenciamento de sacola de compras, processamento de pagamento, confirmação de pedido e outros componentes relevantes.
 
 ## Diagramas produzidos
 
 ### Versão 1
-
+Nesta primeira versão, o processo foi simplificado e dividido em apenas três subsistemas: Usuário, Plataforma e Banco de Dados. Essa abordagem inicial foi escolhida para facilitar o entendimento e a construção do artefato, especialmente considerando o primeiro contato da equipe com essa representação.
 <center>
 
 Figura 1 - Diagrama de Componentes Inicial
@@ -51,3 +59,4 @@ Figura 1 - Diagrama de Componentes Inicial
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Criação da página e adição da introdução   | [Douglas Alves](https://github.com/dougAlvs)   | [Maciel Júnior](https://github.com/macieljuniormax)   | 30/09/2023|
 | 1.1      | Adição da v1 do diagrama   | [Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax)   | [Hellen Fernanda](https://github.com/Hellen159)  | 30/09/2023|
+| 1.2      | Adição da metodologia da V1 e artefato   | [Debora Caires](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax)   |  [Douglas Alves](https://github.com/dougAlvs)  | 08/10/2023|
