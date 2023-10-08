@@ -221,7 +221,7 @@ O décimo Léxico, presente na tabela 12, detalha a busca.
 <div style="margin-left: auto;
             margin-right: auto;
             width: 70%">
-<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Léxico 10: Visualizar (L10)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Léxico 10: Buscar (L10)</p></font>
 
 | L10 | Descrição |
 |-----------------|-------|
