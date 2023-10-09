@@ -1,8 +1,8 @@
 # Diagrama de Comunicação
 
 ## Introdução
-Segundo Martin Fowler[¹](#ancora1), o diagrama de comunicação é uma representação gráfica que destaca as conexões de dados entre os diversos participantes em uma interação, permitindo o posicionamento livre desses participantes e a representação das conexões entre eles. Esse tipo de diagrama também registra o comportamento de um cenário específico, enfatizando a sequência estrutural das mensagens[²](#ancora2). Embora seja semelhante ao [Diagrama de Sequência](), ambos demonstram a colaboração dinâmica entre os objetos; a principal diferença é que o Diagrama de Comunicação concede maior ênfase ao contexto do sistema [⁴](#ancora4).
-
+Segundo Martin Fowler[¹](#ancora1), o diagrama de comunicação é uma representação gráfica que destaca as conexões de dados entre os diversos participantes em uma interação, permitindo o posicionamento livre desses participantes e a representação das conexões entre eles. Esse tipo de diagrama também registra o comportamento de um cenário específico, enfatizando a sequência estrutural das mensagens[²](#ancora2). Embora seja semelhante ao [Diagrama de Sequência](Modelagem/DiagramaSequencia), ambos demonstram a colaboração dinâmica entre os objetos; a principal diferença é que o Diagrama de Comunicação concede maior ênfase ao contexto do sistema [⁴](#ancora4).
+[](#versão-1---cadastro)
 ## Participantes
 Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante num determinado fluxo que compõe os diagramas.
 
@@ -76,7 +76,7 @@ Figura 2 - Diagrama de Busca e Compra
 </center>
 
 ## Conclusões
-O diagrama de comunicação foi feito para salientar os vínculos existentes entre os fluxos, envolvendo os léxicos [usuário](base/lexicos.md#l05-usuário), [cadastrar](base/lexicos.md#l01-cadastrar), [comprar](base/lexicos.md#l02-comprar), [cadastrado](base/lexicos.md#l03-cadastrado), [pedido confirmado](base/lexicos.md#l07-pedido-confirmado), [produto](base/lexicos.md#l08-produto), [visualizar](base/lexicos.md#l09-visualizar) e [buscar](base/lexicos.md#l10-buscar), além de ser bom para explorar alternativas. Mesmo com suas semelhanças com o [Diagrama de Sequência](), o diagrama de comunicação foi feito para ser um complementar ao projeto.
+O diagrama de comunicação foi feito para salientar os vínculos existentes entre os fluxos, envolvendo os léxicos [usuário](Base/lexicos.md#l05-usuário), [cadastrar](Base/lexicos.md#l01-cadastrar), [comprar](Base/lexicos.md#l02-comprar), [cadastrado](Base/lexicos.md#l03-cadastrado), [pedido confirmado](Base/lexicos.md#l07-pedido-confirmado), [produto](Base/lexicos.md#l08-produto), [visualizar](Base/lexicos.md#l09-visualizar) e [buscar](Base/lexicos.md#l10-buscar), além de ser bom para explorar alternativas. Mesmo com suas semelhanças com o [Diagrama de Sequência](Modelagem/DiagramaSequencia), o diagrama de comunicação foi feito para ser um complementar ao projeto.
 
 Em suma, a escolha do diagrama de comunicação como ferramenta de representação para esses fluxos é uma abordagem estratégica que contribui para a precisão, eficiência, melhoria contínua e alinhamento em projetos que envolvem processos complexos de interação.
 
@@ -97,3 +97,4 @@ Em suma, a escolha do diagrama de comunicação como ferramenta de representaç�
 | `1.1`  | 07/10/2023 | Adição da metodologia         | [Geovanna Maciel](https://github.com/manuziny) | [Debora Caires](https://github.com/deboracaires) | 
 | `1.2`  | 08/10/2023 | Adição do tópico artefato        | [Debora Caires](https://github.com/deboracaires) | [Geovanna Maciel](https://github.com/manuziny) | 
 | `1.3`  | 08/10/2023 | Adição da conclusão      | [Geovanna Maciel](https://github.com/manuziny) |  [Arthur de Melo](https://github.com/arthurmlv) | 
+| `1.3.1`   | 08/10/2023 | Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |   |

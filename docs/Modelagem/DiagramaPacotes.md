@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Enquanto classes representam a forma básica de estruturação de um sistema orientado a objetos, os pacotes podem estruturar sistemas grandes, representando o agrupamento de quaisquer construções UML (com os mais comuns sendo classes ou sub-pacotes) (FOWLER, 2014). Dito isso, o diagrama de pacotes é um diagrama estrutural e estático que permite organizar o sistema com uma visão mais modular e de alto nível do que o [diagrama de classes](), representando uma estrutura hierárquica do sistema.
+Enquanto classes representam a forma básica de estruturação de um sistema orientado a objetos, os pacotes podem estruturar sistemas grandes, representando o agrupamento de quaisquer construções UML (com os mais comuns sendo classes ou sub-pacotes) (FOWLER, 2014). Dito isso, o diagrama de pacotes é um diagrama estrutural e estático que permite organizar o sistema com uma visão mais modular e de alto nível do que o [diagrama de classes](Modelagem/DiagramaClasses), representando uma estrutura hierárquica do sistema.
 
 ## Participantes
 

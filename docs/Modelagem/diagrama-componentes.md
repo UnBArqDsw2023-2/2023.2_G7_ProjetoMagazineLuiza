@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A diferença entre componentes e classes apresenta uma linha tênue e é alvo de discussões na UML, visto que ambos os conceitos podem ser usados para modelar as mesmas coisas. De acordo com Rumbaugh, a diferença entre as duas, além de vaga, é mais uma questão de intenção do que de semântica estrita (LARMAN, 2007). Pode-se dizer que um componente representa um módulo do sistema que encapsula seu conteúdo e que, caso necessário, pode ser substítuido facilmente por outro componente equivalente, além de ter seu comportamento definido por interfaces fornecidas e requeridas. Sendo assim, o diagrama de componentes busca modelar o sistema com uma visão ainda mais modular e independente do que os diagramas de [classes]() e de [pacotes]().
+A diferença entre componentes e classes apresenta uma linha tênue e é alvo de discussões na UML, visto que ambos os conceitos podem ser usados para modelar as mesmas coisas. De acordo com Rumbaugh, a diferença entre as duas, além de vaga, é mais uma questão de intenção do que de semântica estrita (LARMAN, 2007). Pode-se dizer que um componente representa um módulo do sistema que encapsula seu conteúdo e que, caso necessário, pode ser substítuido facilmente por outro componente equivalente, além de ter seu comportamento definido por interfaces fornecidas e requeridas. Sendo assim, o diagrama de componentes busca modelar o sistema com uma visão ainda mais modular e independente do que os diagramas de [classes](Modelagem/DiagramaClasses) e de [pacotes](Modelagem/DiagramaPacotes).
 
 ## Participantes
 
@@ -56,7 +56,7 @@ Figura 2 - Diagrama de Componentes Versão 2
 
 <img src="assets/diagrama-componentes/diagrama-componentes2.png" alt="Diagrama de Pacotes Versão 2" width="1400"/>
 
-<font>Fonte: Autores, 2023</font>
+<font>Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023</font>
 
 </center>
 
