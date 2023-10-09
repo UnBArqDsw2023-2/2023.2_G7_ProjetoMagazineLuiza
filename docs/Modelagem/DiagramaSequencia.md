@@ -122,4 +122,4 @@ Desse modo, os diagramas de sequência UML desempenham um papel fundamental na m
 | `1.2`   | 07/10/2023 | Adiciona diagramas geral e de cadastro                                                   | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
 | `1.3`   | 08/10/2023 | Adiciona diagrama de compra e texto de conclusão                                         | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
 | `1.3.1` | 08/10/2023 | Corrige erros do texto e incrementa metodologias e introdução                            | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) |
-| `1.3.2` | 08/10/2023 | Adiciona referência e revisores                                                          | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.3.2` | 08/10/2023 | Adiciona referência e revisores                                                          | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
