@@ -49,7 +49,9 @@ O primeiro diagrama elaborado foi o geral que representa em alto nível a relaç
 
 **Figura 1** - Diagrama de Sequência: Geral
 
-![Figura do diagrama de sequência geral](../../assets/diagramas/sequencia/geral.png)
+<p align="center">
+    <img src="assets/diagramas/sequencia/geral.png" alt="Diagrama de Sequencia Geral" width="1000"/></a></br>
+</p>
 
 _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -64,7 +66,9 @@ O segundo elaborado foi o de cadastro de usuário na aplicação. Esse cenário 
 
 **Figura 2** - Diagrama de Sequência: Cadastro 1.0
 
-![Figura do rascunho do diagrama de sequência cadastro 1.0](../../assets/diagramas/sequencia/cadastro-rascunho.png)
+<p align="center">
+    <img src="assets/diagramas/sequencia/cadastro-rascunho.png" alt="Diagrama de Sequencia Cadastro" width="1000"/></a></br>
+</p>
 
 _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -76,7 +80,9 @@ Nota-se que essa primeira versão apresenta vários erros tanto conceituais e de
 
 **Figura 3** - Diagrama de Sequência: Cadastro 2.0
 
-![Figura do diagrama de sequência cadastro 2.0](../../assets/diagramas/sequencia/cadastro.png)
+<p align="center">
+    <img src="assets/diagramas/sequencia/cadastro.png" alt="Diagrama de Sequencia Cadastro" width="1000"/></a></br>
+</p>
 
 _Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -90,7 +96,9 @@ O diagrama de compra foi construído de maneira um pouco diferente, nele algumas
 
 **Figura 4** - Diagrama de Sequência: Compra
 
-![Figura do diagrama de sequência compra](../../assets/diagramas/sequencia/compra.png)
+<p align="center">
+    <img src="assets/diagramas/sequencia/compra.png" alt="Diagrama de Sequencia Compra" width="1000"/></a></br>
+</p>
 
 _Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -128,4 +136,5 @@ Desse modo, os diagramas de sequência UML desempenham um papel fundamental na m
 | `1.3.2` | 08/10/2023 | Adiciona referência e revisores                                                          | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
 | `1.4`   | 08/10/2023 | Adiciona rastreio                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.4.1`   | 08/10/2023 | Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |   |
+| `1.4.2`   | 09/10/2023 | Correção das imagens                                                                      | [Arthur de Melo](https://github.com/arthurmlv) |   |
 
