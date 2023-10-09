@@ -37,7 +37,7 @@ O grupo se reuniu via Discord para realizar uma sessão de estudo e planejamento
 
 ## Diagramas
 
-Os diagramas foram construídos ao longo de um intervalo de uma semana (02/08 até 08/08) e sofreram alterações sucessivas que modificaram suas características e demonstraram a evolução na compreensão de como a aplicação funciona.
+Os diagramas foram construídos ao longo de um intervalo de uma semana (02/08 até 08/08) e sofreram alterações sucessivas que modificaram suas características e demonstraram a evolução na compreensão de como a aplicação funciona. Em conjunto com os [diagramas de comunicações](), eles modelam com uma grande precisão as partes que integram o sistema. Ademais, os léxicos [01](), [02]() e [03]() também funcionaram como apoio na produção desses diagramas.
 
 ### Diagrama Geral
 
@@ -55,7 +55,7 @@ _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ### Diagrama de Cadastro
 
-O segundo elaborado foi o de cadastro de usuário na aplicação. Esse cenário também foi modelado através do [Diagrama de Atividades: Cadastro e Acesso](linkar com o artefato de atividade). Uma versão inicial foi construída através de uma rascunho em papel e pode ser visualizada na figura 2.
+O segundo elaborado foi o de cadastro de usuário na aplicação. Esse cenário também foi modelado através do [Diagrama de Comunicação - Cadastro](). Uma versão inicial foi construída através de uma rascunho em papel e pode ser visualizada na figura 2.
 
 <center>
 
@@ -123,3 +123,4 @@ Desse modo, os diagramas de sequência UML desempenham um papel fundamental na m
 | `1.3`   | 08/10/2023 | Adiciona diagrama de compra e texto de conclusão                                         | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
 | `1.3.1` | 08/10/2023 | Corrige erros do texto e incrementa metodologias e introdução                            | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.3.2` | 08/10/2023 | Adiciona referência e revisores                                                          | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.4`   | 08/10/2023 | Adiciona rastreio                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
