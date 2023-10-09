@@ -3,8 +3,10 @@
 - [**Home**](README.md)
   - [Atas Reuniões]()
     - [Ata 2](atas/ata2.md)
+    - [Ata 3](atas/ata3.md)
 - [**Diretrizes**](Diretrizes/Diretrizes.md)
 - [**1. Desenho de Software (Base)**](Base/1.Base.md)
+
   - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](Base/1.1.AbordagemNaoEspecifica.md)
     - [Mapa Mental](Base/MapaMental.md)
     - [Léxicos](Base/lexicos.md)
@@ -22,10 +24,13 @@
 
   - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
     - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
+      - [Diagrama de Classes](Modelagem/DiagramaClasses.md)
       - [Diagrama de Pacotes](Modelagem/DiagramaPacotes.md)
-      - [Diagrama de Atividades](Modelagem/DiagramaAtividades.md)
+      - [Diagrama de Componentes](Modelagem/diagrama-componentes.md)
     - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
       - [Diagrama de Comunicação](Modelagem/comunicacao.md)
+      - [Diagrama de Atividades](Modelagem/DiagramaAtividades.md)
+      - [Diagrama de Sequência](Modelagem/DiagramaSequencia.md)
   - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
 
 <!--
