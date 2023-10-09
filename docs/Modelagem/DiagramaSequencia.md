@@ -6,7 +6,7 @@ Um diagrama de sequência é uma representação visual em UML (Unified Modeling
 
 ## Participantes
 
-Os participantes responsáveis por elaborar esse artefato foram os integrantes do grupo [Douglas Alves](https://github.com/dougAlvs), [Hellen Fernanda](https://github.com/Hellen159), [Laura](https://github.com/laurapinos) e [Matheus Henrique](https://github.com/mathonaut). A revisão desse artefato ficou a cargo dos integrantes do mesmo grupo [Fulano]().
+Os participantes responsáveis por elaborar esse artefato foram os integrantes do grupo [Douglas Alves](https://github.com/dougAlvs), [Hellen Fernanda](https://github.com/Hellen159), [Laura](https://github.com/laurapinos) e [Matheus Henrique](https://github.com/mathonaut). A revisão desse artefato ficou a cargo dos integrantes do mesmo grupo [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).
 
 A tabela 1 a seguir apresenta a relação de cada participante com os artefatos produzidos por eles.
 
@@ -19,7 +19,7 @@ A tabela 1 a seguir apresenta a relação de cada participante com os artefatos 
 | [Introdução](#introdução)   | [Hellen Fernanda](https://github.com/Hellen159) e [Matheus Henrique](https://github.com/mathonaut) |
 | [Metodologia](#metodologia) | [Hellen Fernanda](https://github.com/Hellen159) e [Matheus Henrique](https://github.com/mathonaut) |
 | [Diagramas](#diagramas)     | [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut)    |
-| [Conclusão](#conclusão)     | [Matheus Henrique](https://github.com/mathonaut)                                                                                                   |
+| [Conclusão](#conclusão)     | [Matheus Henrique](https://github.com/mathonaut)                                                   |
 
 _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -111,12 +111,15 @@ Desse modo, os diagramas de sequência UML desempenham um papel fundamental na m
 
 > RODRIGUES, João; VITOR, Paulo. **Diagrama de Sequencia.** Repositório A Monitoria no GitHub, 2019. Disponível em: <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_III/diagrama_seq/>. Acesso em: 06 de outubro de 2023.
 
+> **UML Sequence Diagrams**. UML DIAGRAMS, 2023. Disponível em: <https://www.uml-diagrams.org/sequence-diagrams.html>. Acesso em: 04 de outubro de 2023.
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                                | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 14/09/2023 | Criação da página, introdução e metodologia                                              | [Hellen Fernanda](https://github.com/Hellen159)  | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`  | 07/10/2023 | Ajuste no texto de introdução, organização das seções e adição da seção de participantes | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
-| `1.2`  | 07/10/2023 | Adiciona diagramas geral e de cadastro                                                   | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
-| `1.3`  | 08/10/2023 | Adiciona diagrama de compra e texto de conclusão                                         | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)   |
-| `1.3.1`  | 08/10/2023 | Corrige erros do texto e incrementa metodologias e introdução     |  [Douglas Alves](https://github.com/dougAlvs) |  [Matheus Henrique](https://github.com/mathonaut) |
+| Versão  | Data       | Descrição                                                                                | Autor(es)                                        | Revisor(es)                                      |
+| ------- | ---------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`   | 14/09/2023 | Criação da página, introdução e metodologia                                              | [Hellen Fernanda](https://github.com/Hellen159)  | [Arthur de Melo](https://github.com/arthurmlv)   |
+| `1.1`   | 07/10/2023 | Ajuste no texto de introdução, organização das seções e adição da seção de participantes | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.2`   | 07/10/2023 | Adiciona diagramas geral e de cadastro                                                   | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.3`   | 08/10/2023 | Adiciona diagrama de compra e texto de conclusão                                         | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.3.1` | 08/10/2023 | Corrige erros do texto e incrementa metodologias e introdução                            | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.3.2` | 08/10/2023 | Adiciona referência e revisores                                                          | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) |
