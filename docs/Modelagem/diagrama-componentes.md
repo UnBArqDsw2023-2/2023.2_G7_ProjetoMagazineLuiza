@@ -16,6 +16,7 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 | Participantes   | Etapas  |
 |-----------------|:------------:|
 |[Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax) | Diagrama de Componentes versão 1 |
+|[Douglas Alves](https://github.com/dougAlvs)| Diagrama de Componentes versão 2 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 </div>
@@ -23,7 +24,7 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 ## Metodologia
 Para a produção deste artefato, foi adotada uma abordagem de aprendizado inicial, dedicando tempo para estudar de forma individual os materiais disponibilizados no Aprender 3 da disciplina, bem como consultando as valiosas [Referências Bibliográficas](#referências-bibliográficas) apresentadas no final deste documento. Esse processo de estudo individual permitiu que cada membro da equipe obtivesse uma compreensão sólida dos conceitos e informações relevantes para o projeto.
 
-Posteriormente, foi agendada uma reunião de trabalho no dia 30 de setembro de 2023, realizada de forma remota pelo Discord. Essa reunião se revelou uma etapa crítica no processo, uma vez que proporcionou um espaço para discussão, colaboração e integração das ideias de todos os participantes. Durante essa reunião de aproximadamente três horas, foram debatidos pontos-chave, dúvidas e estratégias para a criação do artefato. Nessa reunião, a plataforma Lucidchart desempenhou um papel fundamental. Essa ferramenta foi utilizada para desenvolver a primeira versão do artefato, permitindo a criação de diagramas de comunicação de forma colaborativa e eficaz. É relevante destacar que a participação de todos os envolvidos foi ativa e desempenhou um papel crucial no entendimento e no desenvolvimento do artefato. Cada membro trouxe perspectivas únicas e conhecimento específico que enriqueceram o trabalho em equipe.
+Posteriormente, foi agendada uma reunião de trabalho no dia 30 de setembro de 2023, realizada de forma remota pelo Discord. Essa reunião se revelou uma etapa crítica no processo, uma vez que proporcionou um espaço para discussão, colaboração e integração das ideias de todos os participantes. Durante essa reunião de aproximadamente três horas, foram debatidos pontos-chave, dúvidas e estratégias para a criação do artefato. Nessa reunião, a plataforma Lucidchart desempenhou um papel fundamental. Essa ferramenta foi utilizada para desenvolver a primeira versão do artefato, permitindo a criação de diagramas de comunicação de forma colaborativa e eficaz. É relevante destacar que a participação de todos os envolvidos foi ativa e desempenhou um papel crucial no entendimento e no desenvolvimento do artefato. Cada membro trouxe perspectivas únicas e conhecimento específico que enriqueceram o trabalho em equipe. Por fim, após um feedback dado pela professora em sala, o diagrama foi reformulado para abranger melhor o escopo da aplicação e melhor representá-la.
 
 ## Artefato
 O artefato desenvolvido neste documento foi criado com o objetivo principal de fornecer uma representação visual clara e concisa da estrutura do sistema relacionado ao processo de compra de produtos. O diagrama de componentes destaca os principais componentes envolvidos nesse processo, suas interfaces fornecidas e requeridas, bem como as relações e dependências entre eles.
@@ -33,7 +34,8 @@ O principal objetivo deste artefato é facilitar o entendimento da arquitetura d
 ## Diagramas produzidos
 
 ### Versão 1
-Nesta primeira versão, o processo foi simplificado e dividido em apenas três subsistemas: Usuário, Plataforma e Banco de Dados. Essa abordagem inicial foi escolhida para facilitar o entendimento e a construção do artefato, especialmente considerando o primeiro contato da equipe com essa representação.
+
+Nesta primeira versão, apresentada na figura 1, o processo foi simplificado e dividido em apenas três subsistemas: Usuário, Plataforma e Banco de Dados. Essa abordagem inicial foi escolhida para facilitar o entendimento e a construção do artefato, especialmente considerando o primeiro contato da equipe com essa representação.
 <center>
 
 Figura 1 - Diagrama de Componentes Inicial
@@ -44,7 +46,23 @@ Figura 1 - Diagrama de Componentes Inicial
 
 </center>
 
+### Versão 2
 
+Na segunda versão apresentada na figura 2, foram adicionados alguns componentes a mais no subsistema da plataforma, de forma a abrangir mais do escopo da aplicação, além de ter sido adicionado um novo subsistema de pagamento e a adição dos usuários na camada de persistência.
+
+<center>
+
+Figura 2 - Diagrama de Componentes Versão 2
+
+<img src="assets/diagrama-componentes/diagrama-componentes2.png" alt="Diagrama de Pacotes Versão 2" width="1400"/>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+## Conclusão
+
+O diagrama de componentes apresentado oferece uma visão abrangente e estruturada dos elementos essenciais que compõem nosso sistema. Ele serviu como uma ferramenta valiosa para descrever a arquitetura e a organização interna da aplicação de maneira modular e de alto nível de abstração, destacando as interações e dependências entre cada componente.
 
 ## Referências Bibliográficas
 
@@ -60,3 +78,4 @@ Figura 1 - Diagrama de Componentes Inicial
 | 1.0      | Criação da página e adição da introdução   | [Douglas Alves](https://github.com/dougAlvs)   | [Maciel Júnior](https://github.com/macieljuniormax)   | 30/09/2023|
 | 1.1      | Adição da v1 do diagrama   | [Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax)   | [Hellen Fernanda](https://github.com/Hellen159)  | 30/09/2023|
 | 1.2      | Adição da metodologia da V1 e artefato   | [Debora Caires](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax)   |  [Douglas Alves](https://github.com/dougAlvs)  | 08/10/2023|
+| 1.3      | Adição da segunda versão do diagrama e da conclusão  | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  | 08/10/2023|   |  
