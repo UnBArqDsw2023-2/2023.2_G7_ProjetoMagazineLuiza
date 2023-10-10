@@ -17,6 +17,7 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 |-----------------|:------------:|
 |[Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax) | Diagrama de Componentes versão 1 |
 |[Douglas Alves](https://github.com/dougAlvs)| Diagrama de Componentes versão 2 |
+|[Douglas Alves](https://github.com/dougAlvs)| Diagrama de Componentes versão 3 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 </div>
@@ -60,9 +61,23 @@ Figura 2 - Diagrama de Componentes Versão 2
 
 </center>
 
+### Versão 3
+
+Na terceira versão apresentada na figura 3, foi estabelecida uma nova relação entre o componente de autenticação do usuário e o componente de compra da plataforma. Visto que foi observado que o papel de ator do usuário estava muito diluído pela grande concentração das tarefas dentro dos componentes da plataforma, dessa forma a relação do usuário com o sistema acaba acontecendo de maneira mais direta e natural.
+
+<center>
+
+Figura 3 - Diagrama de Componentes Versão 3
+
+<img src="assets/diagrama-componentes/diagrama-componentes3.png" alt="Diagrama de Pacotes Versão 3" width="1400"/>
+
+<font>Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023</font>
+
+</center>
+
 ## Conclusão
 
-O diagrama de componentes apresentado oferece uma visão abrangente e estruturada dos elementos essenciais que compõem nosso sistema. Ele serviu como uma ferramenta valiosa para descrever a arquitetura e a organização interna da aplicação de maneira modular e de alto nível de abstração, destacando as interações e dependências entre cada componente.
+O diagrama de componentes apresentado forneceu um grande desafio à equipe devido a sua complexidade, porém oferece uma visão abrangente e estruturada dos elementos essenciais que compõem nosso sistema. Ele serviu como uma ferramenta valiosa para descrever a arquitetura e a organização interna da aplicação de maneira modular e de alto nível de abstração, destacando as interações e dependências entre cada componente.
 
 ## Referências Bibliográficas
 
@@ -79,3 +94,4 @@ O diagrama de componentes apresentado oferece uma visão abrangente e estruturad
 | 1.1      | Adição da v1 do diagrama   | [Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax)   | [Hellen Fernanda](https://github.com/Hellen159)  | 30/09/2023|
 | 1.2      | Adição da metodologia da V1 e artefato   | [Debora Caires](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax)   |  [Douglas Alves](https://github.com/dougAlvs)  | 08/10/2023|
 | 1.3      | Adição da segunda versão do diagrama e da conclusão  | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  | 08/10/2023|   |  
+| 1.4      | Adição da terceira versão do diagrama e atualização da conclusão  | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  | 09/10/2023|   |  
