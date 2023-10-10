@@ -52,7 +52,21 @@ Após a [visualização](Base/lexicos.md#l09-visualizar) do [produto](Base/lexic
 
 Figura 2 - Diagrama de Atividades: Compra
 
-<img src="assets/diagramaAtividade2.png" alt="Diagrama de Atividades 2" width="1400"/>
+<img src="assets/diagramaAtividade2.png" alt="Diagrama de Atividades 1" width="1000"/>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+### Versão 2
+
+A versão 2 do Diagrama de Atividades de Cadastro e Acesso se justifica devido à necessidade de aprimorar a representação dos processos e torná-la mais precisa. Em sua primeira versão, algumas situações que não eram propriamente bifurcações foram reavaliadas e corretamente identificadas como decisões, proporcionando uma melhor compreensão do fluxo de atividades. Além disso, para enriquecer a representação, foram introduzidos objetos como Email e dados, que são elementos cruciais em muitos processos, tornando o diagrama mais completo e fiel à realidade das operações. Essas melhorias na segunda versão do Diagrama de Atividades contribuem para uma representação mais precisa e eficaz dos processos e suas interações. A explicação sobre seu funcionamento continua a mesma da versão 1.
+
+<center>
+
+Figura 3 - Diagrama de Atividades: Cadastro e Acesso versão 2
+
+<img src="assets/diagramaAtividade1_v2.png" alt="Diagrama de Atividades 1" width="1000"/>
 
 <font>Fonte: Autores, 2023</font>
 
@@ -78,3 +92,4 @@ Produzidos esses diagramas, foi possível analisar a lógica do procedimento que
 | `1.1`    | Documentação Versão 1 | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougalvs)  | 07/10/2023 |
 | `1.2`    | Documentação Versão 1 Conclusão | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougalvs)  | 08/10/2023 |
 | `1.2.1`   | 08/10/2023 | Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |   |
+| `1.3`   | 08/10/2023 | Versão 2 do artefato                                                            | [Sidney Fernando](https://github.com/nando3d3) |   |
