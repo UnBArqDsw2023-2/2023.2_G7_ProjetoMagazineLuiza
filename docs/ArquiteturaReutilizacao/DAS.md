@@ -16,11 +16,6 @@
 
 
 
-## Visão Lógica
-
-[Visão Lógica](./visoes/visao-logica.md ':include')
-
-
 ## Visão de Dados
 
 [Visão Dados](./visoes/visao-dados.md ':include')
@@ -42,3 +37,4 @@
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Criação da estrutura da página   | [Douglas Alves](https://github.com/dougAlvs)   |  [Sidney Fernando](https://github.com/nando3d3)  | 23/11/2023|
+| 1.0.1      | Adição da versão inicial da visão de dados   | [Douglas Alves](https://github.com/dougAlvs)   |  [Sidney Fernando](https://github.com/nando3d3)  | 24/11/2023|
