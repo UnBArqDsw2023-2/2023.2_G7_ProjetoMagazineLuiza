@@ -4,6 +4,8 @@
   - [Atas Reuniões]()
     - [Ata 2](atas/ata2.md)
     - [Ata 3](atas/ata3.md)
+    - [Ata 4](atas/ata4.md)
+    - [Ata 5](atas/ata5.md)
 - [**Diretrizes**](Diretrizes/Diretrizes.md)
 - [**1. Desenho de Software (Base)**](Base/1.Base.md)
 

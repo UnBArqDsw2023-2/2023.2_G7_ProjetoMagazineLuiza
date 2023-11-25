@@ -32,11 +32,11 @@
 
 ## Referências Bibliográficas
 
-> FOWLER, Martin. UML Essencial: um breve guia para linguagem padrão. Bookman editora, 2014.
-> 
-> UML DIAGRAMS. UML Component Diagrams, 2023. Disponível em: <<https://www.uml-diagrams.org/component-diagrams.html>>. Acesso em:  30/09/2023.
-> 
-> LARMAN, Craig. Utilizando UML e padrões. Bookman Editora, 2007.
+> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3.
+>
+> SOMMERVILLE, Ian. Engenharia de Software. 9a. edição. Pearson, 2011.</p>
+>
+> KRUCHTEN, Philippe B. The 4+1 view model of architecture. IEEE software, v. 12, n. 6, p. 42-50, 1995.
 
 ## Histórico de Versões
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
