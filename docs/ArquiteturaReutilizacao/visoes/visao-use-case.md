@@ -32,7 +32,6 @@ Figura 2 - Diagrama de Caso de Uso Versão 2
 
 </center>
 
-
 ### Buscar Produto
 
 Para o fluxo de busca de produto, a inclusão se mostra necessária, dado que uma busca precisa estritamente exibir os resultados. Entretanto, não se aplica à opção de aplicar filtro, visto que a última é opcional. A busca pode ser utilizada para auxiliar na visualização do produto, dado que o usuário pode precisar buscar o produto desejado.
@@ -59,4 +58,5 @@ Ademais, para realizar a confirmação da compra é necessária a realização d
 
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
 |----------|------------|-------------|------------|-----------|
-| 1.0      | Criação da estrutura da página.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
+| 1.0      | Criação da primeira versão e documentação.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
+| 1.1      | Desenvolvimento da segunda versão.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
