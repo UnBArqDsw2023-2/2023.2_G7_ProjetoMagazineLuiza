@@ -132,3 +132,27 @@ CREATE TABLE PAGAMENTO (
 		  ON DELETE CASCADE
 		  ON UPDATE CASCADE
 ) ENGINE = INNODB;
+
+-- View para os produtos mais vendidos
+CREATE VIEW ProdutosMaisVendidos AS
+SELECT p.nomeProduto, d.nomeDepartamento, SUM(i.quantidade) as quantidadeVendida
+FROM ITEM i
+JOIN PRODUTO p ON i.idProduto = p.idProduto
+JOIN DEPARTAMENTO d ON p.idDepartamento = d.idDepartamento
+GROUP BY p.nomeProduto, d.nomeDepartamento
+ORDER BY quantidadeVendida DESC;
+
+-- View para o valor total de vendas por departamento
+CREATE VIEW VendasPorDepartamento AS
+SELECT d.nomeDepartamento, SUM(i.quantidade) as qtdTotalVendas, SUM(p.valorProduto * i.quantidade) as valorTotalVendas
+FROM ITEM i
+JOIN PRODUTO p ON i.idProduto = p.idProduto
+JOIN DEPARTAMENTO d ON p.idDepartamento = d.idDepartamento
+GROUP BY d.nomeDepartamento;
+
+-- View para o método de pagamento mais popular
+CREATE VIEW MetodoPagamentoMaisPopular AS
+SELECT métodoPagamento, COUNT(*) as quantidade
+FROM PAGAMENTO
+GROUP BY métodoPagamento
+ORDER BY quantidade DESC;
