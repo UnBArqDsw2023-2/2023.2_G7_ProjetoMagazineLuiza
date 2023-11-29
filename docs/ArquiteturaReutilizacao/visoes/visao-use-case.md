@@ -44,7 +44,7 @@ Ademais, para realizar a confirmação da compra é necessária a realização d
 
 ## Conclusão 
 
-!!!!!!!!!!!!LEMBRAR DE FAZER CONCLUSÃO!!!!!!!!!!!!!
+Isso posto, infere-se que algumas ações precisam ser realizadas no sistema sem ligação à uma conta, dado que essas independem da autenticação. Por exemplo, um usuário não cadastrado pode acessar itens e adicionar à sacola, logo o sistema precisa perdurar essa informação sem relacionar a sacola à conta, e esta relação pode ser relevante ao diagrama de dados, dado o escopo do projeto. Contudo, esse comportamento pode ser feito por meio de cache ou cookies. Por outra via, analisa-se que grande parte das interações são opcionais, ou seja, o site apresenta uma preocupação com a dinâmica das ações, oferecendo diferentes opções, principalmente durante a compra. No entanto, algumas dessas atividades são implementadas de forma insatisfatória. Tal como a busca só pode ser filtrada após a realização da primeira busca sem filtros. De maneira análoga, seria interessante a opção de cálculo de desconto e de preço total na Sacola, visto que a última só pode ser verificada na fase de pagamento.
 
 ## Referências Bibliográficas
 
@@ -60,3 +60,4 @@ Ademais, para realizar a confirmação da compra é necessária a realização d
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Criação da primeira versão e documentação.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
 | 1.1      | Desenvolvimento da segunda versão.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
+| 1.2      | Adição da conclusão.   | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
