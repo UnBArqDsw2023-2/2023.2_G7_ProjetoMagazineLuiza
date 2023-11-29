@@ -38,6 +38,7 @@
 - [**3. Padrões de Projeto**](PadroesDeProjeto/3.PadroesDeProjeto.md)
 
   - [Singleton](PadroesDeProjeto/singleton.md)
+  - [Factory Method](PadroesDeProjeto/factoryMethod.md)
       
 
 - [**4. Desenho de Software (Arquitetura & Reutilização de Software)**](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
