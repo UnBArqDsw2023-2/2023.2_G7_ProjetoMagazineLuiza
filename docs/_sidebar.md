@@ -4,6 +4,8 @@
   - [Atas Reuniões]()
     - [Ata 2](atas/ata2.md)
     - [Ata 3](atas/ata3.md)
+    - [Ata 4](atas/ata4.md)
+    - [Ata 5](atas/ata5.md)
 - [**Diretrizes**](Diretrizes/Diretrizes.md)
 - [**1. Desenho de Software (Base)**](Base/1.Base.md)
 
@@ -32,6 +34,12 @@
       - [Diagrama de Atividades](Modelagem/DiagramaAtividades.md)
       - [Diagrama de Sequência](Modelagem/DiagramaSequencia.md)
   - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
+
+- [**3. Padrões de Projeto**](PadroesDeProjeto/3.PadroesDeProjeto.md)
+
+  - [Singleton](PadroesDeProjeto/singleton.md)
+  - [Factory Method](PadroesDeProjeto/factoryMethod.md)
+      
 
 - [**4. Desenho de Software (Arquitetura & Reutilização de Software)**](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
   - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
