@@ -1,8 +1,15 @@
-package com.example;
+import classes.CalcDescontoStrategy;
+import classes.CalcDescontoPorcento;
+import classes.CalcDescontoValor;
+import classes.NoDiscount;
+import classes.Sacola;
 
 public class Main {
     public static void main(String[] args) {
-        float valorTotal = 100;
+
+        Sacola sacola = new Sacola();
+        
+        float valorTotal = sacola.calcularTotal();
 
         CalcDescontoStrategy desconto10Porcento = new CalcDescontoPorcento(10);
         float valorComDescontoPorcento = desconto10Porcento.calculaDesconto(valorTotal);

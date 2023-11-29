@@ -1,4 +1,4 @@
-package com.example;
+package classes;
 
 public class NoDiscount implements CalcDescontoStrategy{
     @Override
