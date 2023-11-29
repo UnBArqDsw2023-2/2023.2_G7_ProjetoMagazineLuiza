@@ -38,10 +38,10 @@
 - [**3. Padrões de Projeto**](PadroesDeProjeto/3.PadroesDeProjeto.md)
 
   - [Singleton](PadroesDeProjeto/singleton.md)
-      
 
 - [**4. Desenho de Software (Arquitetura & Reutilização de Software)**](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
   - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [Documento de Arquitetura de Software](ArquiteturaReutilizacao/DAS.md)
+    - [Visão de Processos](ArquiteturaReutilizacao/visoes/visao-processos.md)
   - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
   - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
