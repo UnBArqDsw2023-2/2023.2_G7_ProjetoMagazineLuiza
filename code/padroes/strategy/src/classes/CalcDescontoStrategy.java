@@ -1,4 +1,4 @@
-package com.example;
+package classes;
 
 public interface CalcDescontoStrategy {
     float calculaDesconto(float valorTotal);
