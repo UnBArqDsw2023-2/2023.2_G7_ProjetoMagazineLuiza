@@ -39,7 +39,7 @@
 
   - [Singleton](PadroesDeProjeto/singleton.md)
   - [Factory Method](PadroesDeProjeto/factoryMethod.md)
-      
+  - [Observer](PadroesDeProjeto/observer.md)
 
 - [**4. Desenho de Software (Arquitetura & Reutilização de Software)**](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
   - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
