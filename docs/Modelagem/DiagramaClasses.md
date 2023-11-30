@@ -61,6 +61,19 @@ Figura 3 - Diagrama de Classes Versão 2.0
 <font>Fonte: Autores, 2023</font>
 </center>
 
+## Versão 3.0
+
+Na versão 3 do Diagrama, aplicamos melhorias substanciais com base no feedback fornecido pela professora após a entrega. Aprimoramos a representação das relações entre entidades, especialmente a associação entre Cliente e Pedido, reconhecendo que a natureza da relação está mais relacionada ao Cliente realizando um Pedido do que uma agregação complexa. Além disso, reavaliamos as dependências invertendo a navegabilidade entre Pedido, Status e TipoPagamento para garantir uma estrutura mais coesa. Em relação à relação 'adiciona' entre Produto e ItemSacola, identificamos a necessidade de uma revisão para melhor representar a relação semântica. Também consideramos a interação com a entidade Sacola, percebendo sua desconexão e buscando esclarecer quem é responsável por interagir com ela, que no caso é o elemento correlacionado Pedido. Finalmente, reconhecemos a necessidade de mais métodos, detalhando parâmetros e retornos para uma melhor compreensão das funcionalidades do sistema. Esses ajustes visam aprimorar a clareza e a funcionalidade do sistema.
+
+<center>
+Figura 4 - Diagrama de Classes Versão 3.0
+<p align="center">
+    <img src="assets/diagrama-de-classes3.png" alt="Diagrama de Classes Versão 3.0" width="1000"/></a></br>
+</p>
+<font>Fonte: Autores, 2023</font>
+</center>
+
+
 ## Conclusão
 
 O artefato do diagrama de classes ofereceu ao grupo uma visão mais clara e concisa da estrutura das entidades e de suas interações no sistema. Isso nos permitiu uma compreensão aprofundada das regras de negócios, facilitando a transformação de ideias em classes, relacionamentos, atributos e métodos, além de uma descrição precisa dos padrões de projeto aplicados no projeto.
@@ -83,3 +96,4 @@ O artefato do diagrama de classes ofereceu ao grupo uma visão mais clara e conc
 | 1.2    | Adiciona semântica ao diagrama, corrige a relação entre pedido e cliente | [Hellen Fernanda](https://github.com/Hellen159), [Laura Pinos](https://github.com/laurapinos), [Maciel Júnior](https://github.com/macieljuniormax), [Sidney Fernando](https://github.com/nando3d3) |                                                  |    08/10/2023 |
 | 1.3    | Correções na página | [Sidney Fernando](https://github.com/nando3d3) |    [Maciel Júnior](https://github.com/macieljuniormax)                                              |     08/10/2023       |
 | 1.4    | Correções nas figuras e nos textos | [Douglas Alves](https://github.com/dougAlvs) |   |     08/10/2023       |
+| 1.5    | Criação do artefato                                                      | [Sidney Fernando](https://github.com/nando3d3) | [Douglas Alves](https://github.com/dougAlvs) | 29/11/2023 |
