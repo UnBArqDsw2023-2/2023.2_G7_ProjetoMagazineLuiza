@@ -12,12 +12,12 @@ Nesse primeiro artefato, observa-se o nível conceitual do banco, nele as entida
 
 **Entidades:**
 
-* COMPRADOR (<u>cpf</u>, nome, email, telefone)
-* PEDIDO (<u>idPedido</u>, status, totalPedido, dataPedido, cpfComprador, idEnderecoEntrega)
-* PAGAMENTO (<u>idPagamento</u>, métodoPagamento, valorPagamento, dataPagamento, cpfComprador, idPedido)
-* SACOLA (cpfComprador, totalSacola)
+* COMPRADOR (<u>idComprador</u>, cpf, nome, email, telefone)
+* PEDIDO (<u>idPedido</u>, status, totalPedido, dataPedido, idComprador, idEnderecoEntrega)
+* PAGAMENTO (<u>idPagamento</u>, métodoPagamento, valorPagamento, dataPagamento, idComprador, idPedido)
+* SACOLA (<u>idSacola</u>, idComprador, totalSacola)
 * ENDERECO (<u>idEndereco</u>, nomeEndereco, cep, numero, bairro, estado, complemento, referencia, cidade)
-* ITEM (<u>idItem</u>, quantidade, idPedido, idProduto)
+* ITEM (<u>idItem</u>, quantidade, idPedido, idProduto, idSacola)
 * PRODUTO (<u>idProduto</u>, nomeProduto, descricao, valorProduto, idDepartamento)
 * DEPARTAMENTO (<u>idDepartamento</u>, nomeDepartamento)
 

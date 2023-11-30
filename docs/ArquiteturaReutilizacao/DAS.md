@@ -18,7 +18,7 @@
 
 ## Visão de Dados
 
-<!-- [Visão Dados](./visoes/visao-dados.md ':include') -->
+[Visão Dados](./visoes/visao-dados.md ':include')
 
 
 ## Visão de Casos de Uso
