@@ -39,6 +39,7 @@
 
   - [Singleton](PadroesDeProjeto/singleton.md)
   - [Factory Method](PadroesDeProjeto/factoryMethod.md)
+  - [Chain Of Responsibility](PadroesDeProjeto/chainOfResponsibility.md)
       
 
 - [**4. Desenho de Software (Arquitetura & Reutilização de Software)**](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)

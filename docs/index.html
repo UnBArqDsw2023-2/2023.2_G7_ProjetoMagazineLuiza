@@ -66,6 +66,16 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+  <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      mermaid.initialize({
+        startOnLoad:true,
+        theme: "default",
+      });
+      window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+    });
+  </script>
 
 </body>
 
