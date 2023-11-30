@@ -14,7 +14,8 @@
 
 ## Visões
 
-
+## Visão Lógica
+[Visão Lógica](./visoes/visao-logico.md ':include')
 
 ## Visão de Dados
 
@@ -52,3 +53,4 @@
 | 1.0.3      | Desenvolvimento da segunda versão.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
 | 1.0.4      | Adição da conclusão.   | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
 | 1.0.5      | Mudança da estrutura da visão de caso de uso para adequar ao DAS.   | [Douglas Alves](https://github.com/dougAlvs)  |  [Arthur de Melo](https://github.com/arthurmlv)  | 29/11/2023 |
+| 1.0.6 | Adição da versão inicial da visão lógica | [Geovanna Maciel](https://github.com/manuziny), [Laura Pinos](https://github.com/laurapinos) e [Sidney Fernando](https://github.com/nando3d3) | [Arthur de Melo](https://github.com/arthurmlv) | 28/11/2023 |

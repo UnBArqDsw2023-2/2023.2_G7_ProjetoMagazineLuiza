@@ -86,7 +86,7 @@ Figura 3 - Diagrama de Busca e Compra  de produtos
 
 </center>
 
-## Diagrama Definido
+## Diagrama Definido Inicialmente
 Após discussões entre o grupo e com o feedback a professora, optamos por voltar ao padrão arquitetural Modelo-Visão-Controladora (MVC) presente na Figura 4. Com a finalidade de aumentar a granularidade, optou-se por adicionar as classes e suas relações dentro do pacote "model", além de se atualizar a "controller" com pacotes mais específicos das requisições do usuário na "view".
 
 <center>
@@ -98,6 +98,20 @@ Figura 4 - Diagrama de Busca e Compra  de produtos
 <font>Fonte: Autores, 2023</font>
 
 </center>
+
+## Diagrama Definido Após Feedback
+O feedback solicitava que os pacotes fossem reorganizados para alcançar o mesmo nível de abstração. A proposta era refinar a estrutura, posicionando os pacotes View, Controller e Model um abaixo do outro, mantendo as dependências de cima para baixo, e colocando o banco de dados mais abaixo na hierarquia. As alterações foram refletidas no diagrama da Figura 5, resultando em uma organização aprimorada e mais alinhada ao modelo MVC.
+
+<center>
+Figura 5 - Diagrama de Cadastro/Login, Busca, Visualização e Compra 
+<p align="center">
+    <img src="assets\diagramas\sequencia\diagrama-mvc-corrigido.drawio.png" alt="Diagrama de Pacotes com MVC" width="500"/></a></br>
+</p>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
 
 ## Conclusão
 
@@ -127,3 +141,4 @@ Ao longo do processo de desenvolvimento, concepção e aprimoramento do diagrama
 | `1.6`  | Adição da motivação de elaboração dos diagramas versão 1 e 2   |  [Douglas Alves](https://github.com/dougAlvs)                                                                                              | [Sidney Fernando](https://github.com/nando3d3)   | 08/10/2023 |
 | `1.7`  | Adição do diagrama definito e sua motivação  | [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut)                                                                                       |  [Sidney Fernando](https://github.com/nando3d3)  | 08/10/2023 |
 | `1.8`  | Adição da conclusão e datalhamento das metodologias | [Douglas Alves](https://github.com/dougAlvs) | [Geovanna Maciel](https://github.com/manuziny)  | 08/10/2023 |
+| `1.9`  | Adição do diagrama corrigido | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv)  | 30/11/2023 |
