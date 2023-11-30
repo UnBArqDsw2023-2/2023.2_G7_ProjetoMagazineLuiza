@@ -14,7 +14,7 @@ Foi analisado no artefato de [Visão de Caso de Uso](ArquiteturaReutilizacao/DAS
 
 ## UML
 
-No diagrama de classes, a classe Sacola apresenta métodos nos quais a implementação aqui feita omitiu, dado que seria apenas uma lista. Portanto, na implementação da referida classe, esses métodos permaneceram comentados sem corpo e apenas utilizou-se de um valor fixo para testar o cálculo do desconto. A estrutura do Strategy está de acordo com o Refactoring Guru, na qual a Sacola, que seria o contexto, possui uma relação de agregação com a Strategy. Já a generalização ocorre da interface com as demais outras classes concretas, onde o método apresentado na interface apresenta o polimorfismo.
+No diagrama de classes, a classe Sacola apresenta métodos nos quais a implementação aqui feita omitiu, dado que seria apenas uma lista. Portanto, na implementação da referida classe, esses métodos permaneceram comentados sem corpo e apenas utilizou-se de um valor fixo para testar o cálculo do desconto. A estrutura básica do Strategy está de acordo com o Refactoring Guru. Entretanto, na implementação realizada, a Sacola seria a Context, a qual possui uma relação de agregação com a Desconto Strategy. Já a generalização ocorre da interface com as demais outras classes concretas, onde o método apresentado na interface apresenta o polimorfismo.
 
 <center>
 
@@ -85,4 +85,5 @@ Figura 5 - Código Sem Desconto
 ## Histórico de Versões
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
 |----------|------------|-------------|------------|-----------|
-| 1.0      | Documentação da implementação do Strategy.   | [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3)  |  [Matheus Henrique](https://github.com/mathonaut)  | 30/11/2023 |
+| 1.0      | Documentação da implementação do Strategy.   | [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3)  |  [Douglas Alves](https://github.com/dougalvs)  | 30/11/2023 |
+| 1.0      | Documentação da implementação do Strategy.   | [Arthur de Melo](https://github.com/arthurmlv)   |  [Douglas Alves](https://github.com/dougalvs)  | 30/11/2023 |
