@@ -39,6 +39,7 @@
 
   - [Singleton](PadroesDeProjeto/singleton.md)
   - [Factory Method](PadroesDeProjeto/factoryMethod.md)
+  - [Chain Of Responsibility](PadroesDeProjeto/chainOfResponsibility.md)
   - [Strategy](PadroesDeProjeto/strategy.md)
 
 
