@@ -39,6 +39,9 @@
 
   - [Singleton](PadroesDeProjeto/singleton.md)
   - [Factory Method](PadroesDeProjeto/factoryMethod.md)
+  - [Strategy](PadroesDeProjeto/strategy.md)
+
+
       
 
 - [**4. Desenho de Software (Arquitetura & Reutilização de Software)**](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
