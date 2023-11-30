@@ -1,12 +1,10 @@
-Em um sistema de e-commerce como o da Magalu, a camada de persistência de dados é importantíssima, são armazenados dados dos diferentes usuários, produtos, departamentos, pedidos, pagamentos, entre outros. Dito isso, a visão de dados da arquitetura permite uma descrição mais clara e concisa de quais são os dados do sistema, sua estruturação e como eles são persistidos.
+Em um sistema de e-commerce como o da Magalu, a camada de persistência de dados é importantíssima, visto que são armazenados dados dos diferentes usuários, produtos, departamentos, pedidos, pagamentos, entre outros. Dito isso, a visão de dados da arquitetura permite uma descrição mais clara e concisa de quais são os dados do sistema, sua estruturação e como eles são persistidos.
 
 ### Metodologia
 
 O banco de dados da aplicação foi modelado como um banco de dados relacional. Sendo assim, foram elaborados um total de três artefatos, sendo eles: o [Modelo Entidade-Relacionamento (MER)](#modelo-entidade-relacionamento) e o [Diagrama Entidade-Relacionamento (DER)](#diagrama-entidade-relacionamento), ambos no nível conceitual, e o [Diagrama Lógico de Dados (DLD)](#diagrama-lógico-de-dados) no nível lógico. 
 
 O esqueleto inicial do MER foi elaborado no dia 23/11/2023 com base no que já tinha sido modelado no [diagrama de classes](../../Modelagem/DiagramaClasses.md), sendo posteriormente refinado com base em discussões realizadas em uma reunião de brainstorming entre os membros do grupo. Após isso, o DER foi feito com base no que havia no MER e, diminuindo-se o nível de abstração, adentrou-se no nível lógico com o DLD.
-
-
 
 ### Modelo Entidade Relacionamento
 
@@ -104,3 +102,8 @@ Figura 2 - Diagrama Lógico de Dados
 </center>
 
 
+### Conclusão
+
+A representação dos dados por meio do Modelo Entidade-Relacionamento (MER), do Diagrama Entidade-Relacionamento (DER) e do Diagrama Lógico de Dados (DLD) proporcionou uma visão abrangente e detalhada das estruturas de persistência de dados do sistema. 
+
+Por um lado, com o MER e o DER, a visão de dados se aproxima de uma perspectiva mais conceitual e de nível de abstração semelhante à [visão lógica](#Visão-Lógica), já por outro, com a presença do DLD, apresenta uma visão mais física e próxima da implementação do código do banco de dados em si, com o próximo nível sendo justamente a implementação que pode ser observada no tópico de [Reutilização de Software]().
