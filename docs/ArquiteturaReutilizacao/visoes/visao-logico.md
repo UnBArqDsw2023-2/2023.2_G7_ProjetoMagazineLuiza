@@ -10,7 +10,7 @@ O estudo individual sobre as Visões DAS foi conduzido antes da reunião, que oc
 Os diagramas de classe são uma ferramenta comumente usada para modelar a estrutura de um sistema orientado a objetos e podem ser aplicados em diferentes visões arquiteturais, incluindo a visão lógica/arquitetural de um projeto. Eles fornecem uma representação visual das classes no sistema, suas relações, atributos e métodos, o que pode ajudar a compreender a estrutura interna do sistema. O diagrama de classes abaixo é mais detalhado em sua respectiva página [Diagrama de Classes](https://unbarqdsw2023-2.github.io/2023.2_G7_ProjetoMagazineLuiza/#/Modelagem/DiagramaClasses).
 
 <center>
-Figura 1 - Diagrama de Classes Versão
+Figura 3 - Diagrama de Classes Versão
 <p align="center">
     <img src="assets/diagrama-de-classes3.png" alt="Diagrama de Classes" width="1000"/></a></br>
 </p>
@@ -26,10 +26,10 @@ Agora, ao observar o Diagrama de Classes, é possível compreender a estrutura i
 
 Para concluir, o artefato de visão de [Caso de Uso](https://github.com/UnBArqDsw2023-2/2023.2_G7_ProjetoMagazineLuiza/blob/visao-processo/docs/ArquiteturaReutilizacao/visoes/ArquiteturaReutilizacao/DAS?id=diagrama-de-caso-de-uso) pode auxiliar na compreensão de como os pacotes se relacionam com a organização lógica do sistema. Os casos de uso "Visualizar Produto" e "Buscar Produto" impactam na estrutura lógica do sistema, pois o pacote View contém módulos que tratam dessas funcionalidades. No pacote "Model", encontramos representações para os casos de uso "Realizar Cadastro/Login", "Realizar Pagamento", "Adicionar à Sacola", "Selecionar Método de Pagamento" e "Escolher Local de Entrega", os quais são refletidos tanto no diagrama de pacotes quanto no diagrama de classes. Resumindo, 
 
-Desta forma, olhando para o digrama de pacotes na figura 2 percebe-se que ao integrar as diversas perspectivas oferecidas pelos artefatos, desde a visão lógica preconizada por Sommerville até a materialização nos diagramas e protótipos, obtivemos uma compreensão profunda da estrutura e interações dentro do sistema da Magazine Luiza.
+Desta forma, olhando para o digrama de pacotes na figura 4 percebe-se que ao integrar as diversas perspectivas oferecidas pelos artefatos, desde a visão lógica preconizada por Sommerville até a materialização nos diagramas e protótipos, obtivemos uma compreensão profunda da estrutura e interações dentro do sistema da Magazine Luiza.
 
 <center>
-Figura 2 - Diagrama de Pacotes 
+Figura 4 - Diagrama de Pacotes 
 <p align="center">
     <img src="assets\diagramas\sequencia\diagrama-mvc-corrigido.drawio.png" alt="Diagrama de Pacotes com MVC" width="500"/></a></br>
 </p>
