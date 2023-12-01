@@ -75,11 +75,11 @@ Cardinalidade (n:1)
 
 ### Diagrama Entidade Relacionamento
 
-Ainda no nível conceitual, o DER fornece uma representação visual das entidades, atributos e relacionamentos do MER. Nele, as entidades são representadas por retângulos, os atributos por elipses e os relacionamentos por losangos. O diagrama da Figura 1 foi feito utilizando a ferramenta brModelo.
+Ainda no nível conceitual, o DER fornece uma representação visual das entidades, atributos e relacionamentos do MER. Nele, as entidades são representadas por retângulos, os atributos por elipses e os relacionamentos por losangos. O diagrama da Figura 6 foi feito utilizando a ferramenta brModelo.
 
 <center>
 
-Figura 1 - Diagrama Entidade Relacionamento
+Figura 6 - Diagrama Entidade Relacionamento
 
 <img src="assets/visoes/der.png" alt="Diagrama Entidade Relacionamento" width="1400"/>
 
@@ -93,7 +93,7 @@ O DLD, por sua vez, representa o nível lógico do banco de dados, ou seja, o gr
 
 <center>
 
-Figura 2 - Diagrama Lógico de Dados
+Figura 7 - Diagrama Lógico de Dados
 
 <img src="assets/visoes/dld.png" alt="Diagrama Lógico de Dados" width="1400"/>
 
