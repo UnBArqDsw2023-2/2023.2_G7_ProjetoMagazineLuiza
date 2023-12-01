@@ -44,7 +44,13 @@ Figura 4 - Diagrama de Pacotes
 </center>
 
 #### Diagrama de Comunicação
-Conforme explicado por Martin Fowler, o diagrama de comunicação é uma representação visual que destaca as relações de dados entre diferentes participantes em uma interação. Ele permite a disposição livre desses participantes e a visualização das conexões entre eles. Esse tipo de diagrama também documenta o comportamento de um cenário específico, enfocando a sequência estrutural das mensagens. Embora compartilhe semelhanças com o Diagrama de Sequência, ambos evidenciam a colaboração dinâmica entre objetos; a distinção principal reside no fato de que o Diagrama de Comunicação concede maior ênfase ao contexto do sistema
+Conforme explicado por Martin Fowler, o diagrama de comunicação é uma representação visual que destaca as relações de dados entre diferentes participantes em uma interação. Ele permite a disposição livre desses participantes e a visualização das conexões entre eles. Esse tipo de diagrama também documenta o comportamento de um cenário específico, enfocando a sequência estrutural das mensagens. Embora compartilhe semelhanças com o Diagrama de Sequência, ambos evidenciam a colaboração dinâmica entre objetos; a distinção principal reside no fato de que o Diagrama de Comunicação concede maior ênfase ao contexto do sistema.
+
+O Diagrama de Comunicação foi elaborado para destacar os vínculos entre os fluxos envolvendo léxicos como usuário, cadastrar, comprar, cadastrado, pedido confirmado, produto, visualizar e buscar. Apesar das semelhanças com o Diagrama de Sequência, sua escolha como ferramenta de representação complementar foi estratégica, contribuindo para a precisão, eficiência e melhoria contínua em projetos complexos de interação.
+
+Em resumo, o Diagrama de Comunicação não apenas reflete as interações dinâmicas entre objetos, mas também proporciona uma compreensão profunda e abrangente das operações do sistema, promovendo a eficácia e a otimização contínua no contexto do projeto da Magazine Luiza.
+
+
 
 
 ### Conclusão
