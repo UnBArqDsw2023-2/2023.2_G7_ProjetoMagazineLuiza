@@ -66,7 +66,31 @@ A versão 2 do Diagrama de Atividades de Cadastro e Acesso se justifica devido �
 
 Figura 3 - Diagrama de Atividades: Cadastro e Acesso versão 2
 
-<img src="assets/diagramaAtividade1_v2.png" alt="Diagrama de Atividades 1" width="1000"/>
+<img src="assets/diagramaAtividade1_v2.png" alt="Diagrama de Atividades 1.1" width="1000"/>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+Ainda conforme o feedback da professora, alterou-se as bordas dos recursos de email e outros dados, que agora estão retas. Além disso, os gateways foram atualizados com as perguntas que devem ser respondidas para serem tomados os desvios, dado que anteriormente só estavam explícitas as respostas. Por fim, as mesmas alterações foram realizadas no diagrama de Compra, o qual está presente na Figura 5.
+
+<center>
+
+Figura 4 - Diagrama de Atividades: Cadastro e Acesso versão 2.1
+
+<img src="assets/diagramaAtividade1_v2_1.png" alt="Diagrama de Atividades 1.2" width="1000"/>
+
+<font>Fonte: Autores, 2023</font>
+
+</center>
+
+Por fim, as mesmas alterações citadas anteriormente acerca dos gateways foram realizadas no diagrama de Compra, o qual está presente na Figura 5. Ademais, após a visualização do produto, após uma análise do comportamento do site, concluiu-se que o usuário não precisa adicionar o item à sacola para realizar a compra. Portanto, existe a opção de realizar a compra diretamente e somente daquele item, o que significa que o usuário deseja finalizar a compra, e prosseguir para outras atividades relacionadas à confirmação da compra.
+
+<center>
+
+Figura 5 - Diagrama de Atividades: Compra versão 2
+
+<img src="assets/diagramaAtividade2_v2.png" alt="Diagrama de Atividades 2" width="1000"/>
 
 <font>Fonte: Autores, 2023</font>
 
@@ -74,7 +98,7 @@ Figura 3 - Diagrama de Atividades: Cadastro e Acesso versão 2
 
 ## Conclusão
 
-Produzidos esses diagramas, foi possível analisar a lógica do procedimento que envolvem os léxicos do [usuário](Base/lexicos.md#l05-usuário), [cadastrar](Base/lexicos.md#l01-cadastrar), [comprar](Base/lexicos.md#l02-comprar), [cadastrado](Base/lexicos.md#l03-cadastrado), [pedido confirmado](Base/lexicos.md#l07-pedido-confirmado), [produto](Base/lexicos.md#l08-produto), [visualizar](Base/lexicos.md#l09-visualizar) e [buscar](Base/lexicos.md#l10-buscar). Isso posto, infere-se que, após e durante a confecção do diagrama de atividades, pôde-se analisar apropriadamente as idiossincrasias das atividades e desenvolver novas visões acerca das atividades principais do projeto. Portanto, tal artefato complementa os léxicos de forma significativa.
+Produzidos esses diagramas, foi possível analisar a lógica do procedimento que envolvem os léxicos do [usuário](Base/lexicos.md#l05-usuário), [cadastrar](Base/lexicos.md#l01-cadastrar), [comprar](Base/lexicos.md#l02-comprar), [cadastrado](Base/lexicos.md#l03-cadastrado), [pedido confirmado](Base/lexicos.md#l07-pedido-confirmado), [produto](Base/lexicos.md#l08-produto), [visualizar](Base/lexicos.md#l09-visualizar) e [buscar](Base/lexicos.md#l10-buscar). Isso posto, infere-se que, após e durante a confecção do diagrama de atividades, pôde-se analisar apropriadamente as idiossincrasias das atividades e desenvolver novas visões acerca das atividades principais do projeto. Portanto, tal artefato complementa os léxicos de forma significativa. Além disso, nota-se que a tarefa principal envolve 
 
 ## Referências Bibliográficas
 
@@ -91,5 +115,6 @@ Produzidos esses diagramas, foi possível analisar a lógica do procedimento que
 | `1.0`    | Criação dos Diagramas Versão 1 | [Arthur de Melo](https://github.com/arthurmlv), [Geovanna Maciel](https://github.com/manuziny), [Maciel Júnior](https://github.com/macieljuniormax) e [Sidney Fernando](https://github.com/nando3d3)  |  [Douglas Alves](https://github.com/dougalvs)  | 29/09/2023 |
 | `1.1`    | Documentação Versão 1 | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougalvs)  | 07/10/2023 |
 | `1.2`    | Documentação Versão 1 Conclusão | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougalvs)  | 08/10/2023 |
-| `1.2.1`   | 08/10/2023 | Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |   |
-| `1.3`   | 08/10/2023 | Versão 2 do artefato                                                            | [Sidney Fernando](https://github.com/nando3d3) |   |
+| `1.2.1`    | Correção links | [Douglas Alves](https://github.com/dougAlvs)  |    | 08/10/2023 |
+| `1.3`   |  Versão 2 do artefato      | [Sidney Fernando](https://github.com/nando3d3) | [Arthur de Melo](https://github.com/arthurmlv)  | 08/10/2023 |
+| `1.3.1`   |  Adição da Versão 2 do diagrama de compra e correção do anterior     | [Arthur de Melo](https://github.com/arthurmlv) |   | 30/11/2023 |
