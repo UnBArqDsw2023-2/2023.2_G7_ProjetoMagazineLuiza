@@ -14,7 +14,7 @@
     <property name="os.name" value="Linux"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/surefire/surefirebooter5634262647414058216.jar /mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/surefire 2023-12-01T08-57-45_866-jvmRun1 surefire5292880106530851548tmp surefire_01271610090503857529tmp"/>
+    <property name="sun.java.command" value="/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/surefire/surefirebooter187113845445057599.jar /mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/surefire 2023-12-01T09-50-26_731-jvmRun1 surefire3762366730414711783tmp surefire_016373688785076998417tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/test-classes:/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/classes:/home/chifrudo/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/chifrudo/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/surefire/surefirebooter5634262647414058216.jar"/>
+    <property name="surefire.real.class.path" value="/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/target/surefire/surefirebooter187113845445057599.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.21+9-post-Ubuntu-0ubuntu122.04"/>
     <property name="user.name" value="chifrudo"/>
