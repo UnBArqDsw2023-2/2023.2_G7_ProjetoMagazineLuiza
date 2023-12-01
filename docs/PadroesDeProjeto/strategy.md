@@ -80,7 +80,7 @@ Figura 5 - Código Sem Desconto
 
 > IEEE. SWEBOK-Guide to the Software Engineering Body of Knowledge, 2004.
 > 
-> Refactoring Guru. Padrões Comportamentais: Strategy. Refactoring.Guru, 2023. Disponível em: <https://refactoring.guru/pt-br/design-patterns/strategy>.
+> Padrões Comportamentais: Strategy. Refactoring.Guru, 2023. Disponível em: <https://refactoring.guru/pt-br/design-patterns/strategy>.
 
 ## Histórico de Versões
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
