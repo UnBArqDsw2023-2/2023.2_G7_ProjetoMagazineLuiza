@@ -8,7 +8,6 @@ Um diagrama de sequência é uma representação visual em UML (Unified Modeling
 
 Os participantes responsáveis por elaborar esse artefato foram os integrantes do grupo [Douglas Alves](https://github.com/dougAlvs), [Hellen Fernanda](https://github.com/Hellen159), [Laura](https://github.com/laurapinos) e [Matheus Henrique](https://github.com/mathonaut). A revisão desse artefato ficou a cargo dos integrantes do mesmo grupo [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).
 
-
 A tabela 1 a seguir apresenta a relação de cada participante com os artefatos produzidos por eles.
 
 <center>
@@ -21,7 +20,6 @@ A tabela 1 a seguir apresenta a relação de cada participante com os artefatos 
 | [Metodologia](#metodologia) | [Hellen Fernanda](https://github.com/Hellen159) e [Matheus Henrique](https://github.com/mathonaut) |
 | [Diagramas](#diagramas)     | [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut)    |
 | [Conclusão](#conclusão)     | [Matheus Henrique](https://github.com/mathonaut)                                                   |
-
 
 _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -60,7 +58,6 @@ _Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023._
 ### Diagrama de Cadastro
 
 O segundo elaborado foi o de cadastro de usuário na aplicação. Esse cenário também foi modelado através do [Diagrama de Comunicação - Cadastro](Modelagem/comunicacao#versão-1-cadastro). Uma versão inicial foi construída através de uma rascunho em papel e pode ser visualizada na figura 2.
-
 
 <center>
 
@@ -135,6 +132,5 @@ Desse modo, os diagramas de sequência UML desempenham um papel fundamental na m
 | `1.3.1` | 08/10/2023 | Corrige erros do texto e incrementa metodologias e introdução                            | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.3.2` | 08/10/2023 | Adiciona referência e revisores                                                          | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
 | `1.4`   | 08/10/2023 | Adiciona rastreio                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
-| `1.4.1`   | 08/10/2023 | Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |   |
-| `1.4.2`   | 09/10/2023 | Correção das imagens                                                                      | [Arthur de Melo](https://github.com/arthurmlv) |   |
-
+| `1.4.1` | 08/10/2023 | Correção links                                                                           | [Douglas Alves](https://github.com/dougAlvs)     |                                                  |
+| `1.4.2` | 09/10/2023 | Correção das imagens                                                                     | [Arthur de Melo](https://github.com/arthurmlv)   |                                                  |
