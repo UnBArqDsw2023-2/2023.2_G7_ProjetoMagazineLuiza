@@ -1,14 +1,33 @@
 # Documento de Arquitetura de Software
 
 ## Introdução
-
-
+A visão DAS 4+1, proposta por Krutchten, é um modelo arquitetural abrangente que visa proporcionar uma compreensão holística de sistemas complexos de software. No projeto foi utilizado uma adaptção desse modelo, utilizando as visões de Caso de Uso, Lógica, Implementação, Dados e de Processo. Essa abordagem rica visa atender às necessidades de diferentes stakeholders, desde desenvolvedores e arquitetos até gerentes de projeto e usuários finais. Neste documento, foi analisado como a integração dessas perspectivas podem aprimorar de forma significativa o processo de design e arquitetura de software.
 
 ## Objetivo
-
-
+Esse artefato tem o objetivo de implementar, explorar e compreender a abordagem adaptada da Visão DAS 4+1 no contexto do projeto. Este estudo visa analisar cada uma das cinco visões - Casos de Uso, Lógica, Implementação, Processo e Dados - para fornecer uma compreensão abrangente e integrada do desenvolvimento de software. Ao final, o objetivo é aplicar os princípios e as práticas da Visão DAS 4 + 1 para otimizar a qualidade, a eficiência e a adaptabilidade dos sistemas.
 
 ## Metodologia
+Para a execução do artefato, houve uma divisão dos grupos, cada um responsável por uma visão específica. A decisão sobre essa divisão está documentada na [Ata 5](https://unbarqdsw2023-2.github.io/2023.2_G7_ProjetoMagazineLuiza/#/atas/ata5). Nessa reunião, também foi acordado utilizar uma versão adaptada da visão DAS 4+1, que incluiu a visão de dados, enquanto a visão de cenários foi omitida. A escolha de não utilizar a visão de cenários foi motivada pela maior afinidade do grupo com a visão de Caso de Uso, além de ser uma sugestão do autor sobre a opção de usar cenários ou não. A tabela 1 representa a alocação das equipes para cada visão.
+
+<div align="center">
+
+Tabela 1 - Participantes do Artefato
+
+| Visão | Integrantes |
+| ---------| ---------|
+| Visão de Caso de Uso   |  [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)  |
+| Visão Lógica   | [Geovanna Maciel](https://github.com/manuziny), [Laura Pinos](https://github.com/laurapinos) e [Sidney Fernando](https://github.com/nando3d3)   |
+| Visão de Dados   | [Douglas Alves](https://github.com/dougAlvs)    |
+| Visão de Processos   | [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut)  |
+| Visão de Implementação | [Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs) e  [Maciel Júnior](https://github.com/macieljuniormax)  |
+
+Fonte: _[Geovanna Maciel](https://github.com/manuziny)_
+
+</div>
+
+A formação dos grupos ocorreu com base na afinidade de cada integrante com os artefatos relacionados a uma visão específica. Embora a entrega não incluísse a correção dos diagramas, essa tarefa foi realizada remotamente por cada equipe responsável pela visão designada. As ferramentas utilizadas para corrigir os diagramas foram [Lucidchart](https://lucid.app/) e o [Drawio](https://drawio-app.com). A etapa de estudo individual foi realizada antes da execução do artefato. Cada grupo adotou a metodologia que melhor lhe convém, e essas escolhas estão detalhadas na seção metodológica de cada visão.
+
+Embora cada visão possua uma página dedicada, neste documento elas estão consolidadas para proporcionar uma leitura mais fluida. Isso permite que o leitor identifique a integração do sistema em cada visão, demonstrando como essa abordagem pode otimizar a qualidade, a eficiência e a adaptabilidade dos sistemas.
 
 
 
@@ -53,4 +72,5 @@
 | 1.0.3      | Desenvolvimento da segunda versão.   | [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)   |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
 | 1.0.4      | Adição da conclusão.   | [Arthur de Melo](https://github.com/arthurmlv)  |  [Douglas Alves](https://github.com/dougAlvs)  | 28/11/2023 |
 | 1.0.5      | Mudança da estrutura da visão de caso de uso para adequar ao DAS.   | [Douglas Alves](https://github.com/dougAlvs)  |  [Arthur de Melo](https://github.com/arthurmlv)  | 29/11/2023 |
-| 1.0.6 | Adição da versão inicial da visão lógica | [Geovanna Maciel](https://github.com/manuziny), [Laura Pinos](https://github.com/laurapinos) e [Sidney Fernando](https://github.com/nando3d3) | [Arthur de Melo](https://github.com/arthurmlv) | 28/11/2023 |
+| 1.0.6 | Adição da versão inicial da visão lógica | [Geovanna Maciel](https://github.com/manuziny), [Laura Pinos](https://github.com/laurapinos) e [Sidney Fernando](https://github.com/nando3d3) | [Arthur de Melo](https://github.com/arthurmlv) | 30/11/2023 |
+| 1.0.7 | Adição da introdução, metodologia e objetivo | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut) | 30/11/2023 |
