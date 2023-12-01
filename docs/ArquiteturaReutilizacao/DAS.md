@@ -25,25 +25,22 @@ Fonte: _[Geovanna Maciel](https://github.com/manuziny)_
 
 </div>
 
-A formação dos grupos ocorreu com base na afinidade de cada integrante com os artefatos relacionados a uma visão específica. Embora a entrega não incluísse a correção dos diagramas, essa tarefa foi realizada remotamente por cada equipe responsável pela visão designada. As ferramentas utilizadas para corrigir os diagramas foram [Lucidchart](https://lucid.app/) e o [Drawio](https://drawio-app.com). A etapa de estudo individual foi realizada antes da execução do artefato. Cada grupo adotou a metodologia que melhor lhe convém, e essas escolhas estão detalhadas na seção metodológica de cada visão.
+A formação dos grupos ocorreu com base na afinidade de cada integrante com os artefatos relacionados a uma visão específica. Embora a entrega não incluísse a correção dos diagramas, essa tarefa foi realizada remotamente por cada equipe responsável pela visão designada. As ferramentas utilizadas para corrigir os diagramas foram [Lucidchart](https://lucid.app/) e o [Drawio](https://drawio-app.com), as correções feitas estão detalhadas na página de cada respectivo diagrama. A etapa de estudo individual foi realizada antes da execução do artefato. Cada grupo adotou a metodologia que melhor lhe convém, e essas escolhas estão detalhadas na seção metodológica de cada visão.
 
 Embora cada visão possua uma página dedicada, neste documento elas estão consolidadas para proporcionar uma leitura mais fluida. Isso permite que o leitor identifique a integração do sistema em cada visão, demonstrando como essa abordagem pode otimizar a qualidade, a eficiência e a adaptabilidade dos sistemas.
 
-
-
 ## Visões
+
+## Visão de Casos de Uso
+
+[Visão de Casos de Uso](./visoes/visao-use-case.md ':include')
 
 ## Visão Lógica
 [Visão Lógica](./visoes/visao-logico.md ':include')
 
 ## Visão de Dados
 
-<!-- [Visão Dados](./visoes/visao-dados.md ':include') -->
-
-
-## Visão de Casos de Uso
-
-[Visão de Casos de Uso](./visoes/visao-use-case.md ':include')
+[Visão Dados](./visoes/visao-dados.md ':include') 
 
 ## Conclusão
 

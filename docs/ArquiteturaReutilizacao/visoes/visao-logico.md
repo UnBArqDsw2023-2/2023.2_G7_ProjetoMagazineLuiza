@@ -26,10 +26,10 @@ Agora, ao observar o Diagrama de Classes, é possível compreender a estrutura i
 
 Para concluir, o artefato de visão de [Caso de Uso](https://github.com/UnBArqDsw2023-2/2023.2_G7_ProjetoMagazineLuiza/blob/visao-processo/docs/ArquiteturaReutilizacao/visoes/ArquiteturaReutilizacao/DAS?id=diagrama-de-caso-de-uso) pode auxiliar na compreensão de como os pacotes se relacionam com a organização lógica do sistema. Os casos de uso "Visualizar Produto" e "Buscar Produto" impactam na estrutura lógica do sistema, pois o pacote View contém módulos que tratam dessas funcionalidades. No pacote "Model", encontramos representações para os casos de uso "Realizar Cadastro/Login", "Realizar Pagamento", "Adicionar à Sacola", "Selecionar Método de Pagamento" e "Escolher Local de Entrega", os quais são refletidos tanto no diagrama de pacotes quanto no diagrama de classes. Resumindo, 
 
-Desta forma, olhando para o digrama de pacotes na figura X percebe-se que ao integrar as diversas perspectivas oferecidas pelos artefatos, desde a visão lógica preconizada por Sommerville até a materialização nos diagramas e protótipos, obtivemos uma compreensão profunda da estrutura e interações dentro do sistema da Magazine Luiza.
+Desta forma, olhando para o digrama de pacotes na figura 2 percebe-se que ao integrar as diversas perspectivas oferecidas pelos artefatos, desde a visão lógica preconizada por Sommerville até a materialização nos diagramas e protótipos, obtivemos uma compreensão profunda da estrutura e interações dentro do sistema da Magazine Luiza.
 
 <center>
-Figura X - Diagrama de Pacotes 
+Figura 2 - Diagrama de Pacotes 
 <p align="center">
     <img src="assets\diagramas\sequencia\diagrama-mvc-corrigido.drawio.png" alt="Diagrama de Pacotes com MVC" width="500"/></a></br>
 </p>
