@@ -18,4 +18,14 @@ public class CalcDescontoPorcentoTest {
         
     }
 
+    @Test
+    public void testCalculaDesconto30(){
+        CalcDescontoStrategy calc = new CalcDescontoPorcento(30);
+        float valorTotal = 247.0f;
+
+        float valorComDescontoPorcento = calc.calculaDesconto(valorTotal);
+
+        assertEquals(172.9f, valorComDescontoPorcento, 0.00f);
+        
+    }
 }

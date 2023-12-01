@@ -1,6 +1,6 @@
-/home/sidney/Documentos/UnB/10 Semestre/Arquitetura de Software/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/NoDiscount.java
-/home/sidney/Documentos/UnB/10 Semestre/Arquitetura de Software/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/Main.java
-/home/sidney/Documentos/UnB/10 Semestre/Arquitetura de Software/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/CalcDescontoStrategy.java
-/home/sidney/Documentos/UnB/10 Semestre/Arquitetura de Software/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/Sacola.java
-/home/sidney/Documentos/UnB/10 Semestre/Arquitetura de Software/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/CalcDescontoPorcento.java
-/home/sidney/Documentos/UnB/10 Semestre/Arquitetura de Software/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/CalcDescontoValor.java
+/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/Main.java
+/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/Sacola.java
+/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/NoDiscount.java
+/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/CalcDescontoPorcento.java
+/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/CalcDescontoStrategy.java
+/mnt/c/Users/arthu/Desktop/ArqDSW/2023.2_G7_ProjetoMagazineLuiza/code/padroes/strategy/demo/src/main/java/com/example/CalcDescontoValor.java
