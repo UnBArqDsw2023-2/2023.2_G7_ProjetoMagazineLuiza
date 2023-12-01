@@ -10,7 +10,7 @@ Foi realizada uma reunião via Discord com quatro integrantes (duas duplas), nes
 
 ## Problemática e Solução
 
-Foi analisado no artefato de [Visão de Caso de Uso](ArquiteturaReutilizacao/DAS.md?id=visão-de-casos-de-uso) que o site da Magazine Luiza, diferente de outros sites de mesma natureza, como a Kabum, não possui a opção de calcular o valor da compra desejada com algum cupom de desconto na página da sacola, somente após o usuário prosseguir para a compra. A solução foi realizada por meio do Strategy, no qual foi criada uma interface Strategy para calcular o desconto, na qual havia o método abstrato a ser reescrito. Além disso, uma classe com método sobrescrito para calcular o desconto com de valor fixo, da mesma forma, outras duas para calcular o desconto em porcentagem e outro para caso de não haver desconto.
+Foi analisado no artefato de [Visão de Caso de Uso](ArquiteturaReutilizacao/DAS.md?id=visão-de-casos-de-uso) que o site da Magazine Luiza, diferente de outros sites de mesma natureza, como a Kabum, não possui a opção de calcular o valor da compra desejada com algum cupom de desconto na página da sacola, somente após o usuário prosseguir para a compra. A solução foi realizada por meio do Strategy, no qual foi criada uma interface Strategy para calcular o desconto, na qual havia o método abstrato a ser reescrito. Além disso, uma classe com método sobrescrito para calcular o desconto com de valor fixo, da mesma forma, outras duas para calcular o desconto em porcentagem e outro para caso de não haver desconto. Ademais, deve-se ressaltar que o processo de validação do cupom não cabe aos métodos aqui desenvolvidos para cálculo, mas sim ao [Chain of Responsibility](PadroesDeProjeto/chainOfResponsibility.md) desenvolvido para o projeto.
 
 ## UML
 
@@ -76,6 +76,20 @@ Figura 5 - Código Sem Desconto
 
 </center>
 
+## Como rodar o código?
+
+O código de exemplo aqui parcialmente demonstrado está localizado no repositório do projeto, especificamente no diretório [code/padroes/strategy/demo](https://github.com/UnBArqDsw2023-2/2023.2_G7_ProjetoMagazineLuiza/tree/main/code/padroes/strategy/demo), e foi estruturado por meio do [Apache Maven](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md?id=reutilização-externa). Portanto, para executar o código, basta instalar o [Apache Maven](https://maven.apache.org/) por meio do comando `sudo apt-get install maven` no terminal do linux e , em seguida, utilize o comando `mvn compile exec:java` na pasta `code/padroes/strategy/demo`. Dessa forma, o projeto será compilado e terá suas dependências instaladas. Por fim, execute o código com `mvn exec:java`, o qual exibirá a saída presente na figura a seguir.
+
+<center>
+
+Figura 6 - Saída do código
+
+<img src="assets/strategy/strategy-saida.png" alt="Saida" width="650"/>
+
+<font>Fonte: [Arthur de Melo](https://github.com/arthurmlv), 2023</font>
+
+</center>
+
 ## Referências Bibliográficas
 
 > IEEE. SWEBOK-Guide to the Software Engineering Body of Knowledge, 2004.
@@ -87,3 +101,4 @@ Figura 5 - Código Sem Desconto
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Documentação da implementação do Strategy.   | [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3)  |  [Douglas Alves](https://github.com/dougalvs)  | 30/11/2023 |
 | 1.1      | Correções da revisão.   | [Arthur de Melo](https://github.com/arthurmlv)   |  [Geovanna Maciel](https://github.com/manuziny)  | 30/11/2023 |
+| 1.2      | Instruções de como rodar.   | [Arthur de Melo](https://github.com/arthurmlv)   |  [Geovanna Maciel](https://github.com/manuziny)  | 01/12/2023 |
