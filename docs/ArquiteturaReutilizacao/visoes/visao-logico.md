@@ -7,7 +7,10 @@ A visão lógica foi realizada pelos integrantes associados à atividade que for
 O estudo individual sobre as Visões DAS foi conduzido antes da reunião, que ocorreu em 30 de novembro de 2023 no ambiente do Discord, às 14h30. Essa reunião teve como objetivo alinhar as atividades, elucidando as mudanças feitas nos diagramas e garantindo que nenhum deles ficasse desconexo em termos de informações. Importante mencionar que os diagramas foram corrigidos separadamente usando as ferramentas [Lucidchart](https://lucid.app/) e [Drawio](https://drawio-app.com). O alinhamento foi essencial para que os integrantes pudessem compreender a situação de cada diagrama e realizar mudanças, caso necessário.
 
 #### Diagrama de Classes
-Os diagramas de classe são uma ferramenta comumente usada para modelar a estrutura de um sistema orientado a objetos e podem ser aplicados em diferentes visões arquiteturais, incluindo a visão lógica/arquitetural de um projeto. Eles fornecem uma representação visual das classes no sistema, suas relações, atributos e métodos, o que pode ajudar a compreender a estrutura interna do sistema. O diagrama de classes abaixo é mais detalhado em sua respectiva página [Diagrama de Classes](https://unbarqdsw2023-2.github.io/2023.2_G7_ProjetoMagazineLuiza/#/Modelagem/DiagramaClasses).
+O diagrama de classe é uma ferramenta comumente usada para modelar a estrutura de um sistema orientado a objetos e podem ser aplicados em diferentes visões arquiteturais, incluindo a visão lógica/arquitetural de um projeto. Este diagrama fornece uma representação visual das classes no sistema, suas relações, atributos e métodos, o que pode ajudar a compreender a estrutura interna do sistema.
+
+
+O diagrama de classes abaixo é mais detalhado em sua respectiva página [Diagrama de Classes](https://unbarqdsw2023-2.github.io/2023.2_G7_ProjetoMagazineLuiza/#/Modelagem/DiagramaClasses).
 
 <center>
 Figura 3 - Diagrama de Classes Versão
@@ -16,6 +19,8 @@ Figura 3 - Diagrama de Classes Versão
 </p>
 <font>Fonte: Autores, 2023</font>
 </center>
+
+O Diagrama de Classes, integrado à Visão Lógica no contexto do projeto da Magazine Luiza, é um elemento essencial para compreender o perfil do comprador e os fluxos operacionais desde o cadastro na plataforma até a visualização, seleção, compra e pagamento de produtos. Ao representar entidades como Cliente, Pedido, Sacola, ItemSacola, Produto e Pagamento, juntamente com suas relações e interações, o diagrama reflete a estrutura e as dinâmicas presentes no sistema de e-commerce da Magazine Luiza. Por exemplo, ele evidencia a associação entre Cliente e Pedido, ilustrando a possibilidade de um cliente realizar múltiplos pedidos. Além disso, esse modelo ressalta as dependências e hierarquias entre as classes, como a interdependência entre Pedido e Cliente, sendo fundamental para o entendimento do fluxo de informações durante o processo de compra. A representação visual oferecida pelo Diagrama de Classes é crucial para o desenvolvimento de um sistema coeso e eficaz, alinhado às necessidades da plataforma de e-commerce da Magazine Luiza.
 
 #### Diagrama de Pacotes
 De acordo com Sommerville a visão lógica mostra as abstrações fundamentais do sistema como objetos ou classes de objetos. Nessa visão, deve ser possível relacionar os requisitos de sistema com as entidades, essas que lidam e são fundamentais pra modelar a lógica de negócios no contexto da Magazine Luiza. Vale ressaltar que as correções feitas nos diagramas, mencionadas na metodologia, não serão abordadas aqui. Elas foram detalhadamente discutidas em sua respectiva página. 
