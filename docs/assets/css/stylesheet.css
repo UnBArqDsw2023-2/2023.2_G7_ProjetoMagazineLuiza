@@ -96,3 +96,16 @@ figure.thumbnails img {
     --blockquote-padding                : 0em;
     
 }
+
+/* Summary */
+
+summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--strong-color);
+}
+
+summary:hover {
+    text-decoration: var(--link-text-decoration--hover);
+    text-decoration-color: var(--link-text-decoration-color--hover);
+}

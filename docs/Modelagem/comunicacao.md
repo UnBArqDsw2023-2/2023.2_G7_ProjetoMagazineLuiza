@@ -91,10 +91,10 @@ Em suma, a escolha do diagrama de comunicação como ferramenta de representaç�
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
+| Versão | Descrição                                    | Autor(es)                                        | Revisor(es)                                      | Data       |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 29/09/2023 | Adição da versão inicial do diagrama, introdução e referências.         | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) | 
-| `1.1`  | 07/10/2023 | Adição da metodologia         | [Geovanna Maciel](https://github.com/manuziny) | [Debora Caires](https://github.com/deboracaires) | 
-| `1.2`  | 08/10/2023 | Adição do tópico artefato        | [Debora Caires](https://github.com/deboracaires) | [Geovanna Maciel](https://github.com/manuziny) | 
-| `1.3`  | 08/10/2023 | Adição da conclusão      | [Geovanna Maciel](https://github.com/manuziny) |  [Arthur de Melo](https://github.com/arthurmlv) | 
-| `1.3.1`   | 08/10/2023 | Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |   |
+| `1.0`  | Adição da versão inicial do diagrama, introdução e referências.         | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |  29/09/2023 |
+| `1.1`  | Adição da metodologia         | [Geovanna Maciel](https://github.com/manuziny) | [Debora Caires](https://github.com/deboracaires) |  07/10/2023 |
+| `1.2`  |  Adição do tópico artefato        | [Debora Caires](https://github.com/deboracaires) | [Geovanna Maciel](https://github.com/manuziny) | 08/10/2023 |
+| `1.3`  |  Adição da conclusão      | [Geovanna Maciel](https://github.com/manuziny) |  [Arthur de Melo](https://github.com/arthurmlv) | 08/10/2023 |
+| `1.3.1`   |  Correção links                                                                       | [Douglas Alves](https://github.com/dougAlvs) |  | 08/10/2023 |

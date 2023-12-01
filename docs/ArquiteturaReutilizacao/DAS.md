@@ -1,25 +1,28 @@
 # Documento de Arquitetura de Software
 
 ## Introdução
-A visão DAS 4+1, proposta por Krutchten, é um modelo arquitetural abrangente que visa proporcionar uma compreensão holística de sistemas complexos de software. No projeto foi utilizado uma adaptção desse modelo, utilizando as visões de Caso de Uso, Lógica, Implementação, Dados e de Processo. Essa abordagem rica visa atender às necessidades de diferentes stakeholders, desde desenvolvedores e arquitetos até gerentes de projeto e usuários finais. Neste documento, foi analisado como a integração dessas perspectivas podem aprimorar de forma significativa o processo de design e arquitetura de software.
+
+A visão DAS 4+1, proposta por Kruchten, é um modelo arquitetural abrangente que visa proporcionar uma compreensão holística de sistemas complexos de software. No projeto foi utilizado uma adaptção desse modelo, utilizando as visões de Caso de Uso, Lógica, Implementação, Dados e de Processo. Essa abordagem rica visa atender às necessidades de diferentes stakeholders, desde desenvolvedores e arquitetos até gerentes de projeto e usuários finais. Neste documento, foi analisado como a integração dessas perspectivas podem aprimorar de forma significativa o processo de design e arquitetura de software.
 
 ## Objetivo
+
 Esse artefato tem o objetivo de implementar, explorar e compreender a abordagem adaptada da Visão DAS 4+1 no contexto do projeto. Este estudo visa analisar cada uma das cinco visões - Casos de Uso, Lógica, Implementação, Processo e Dados - para fornecer uma compreensão abrangente e integrada do desenvolvimento de software. Ao final, o objetivo é aplicar os princípios e as práticas da Visão DAS 4 + 1 para otimizar a qualidade, a eficiência e a adaptabilidade dos sistemas.
 
 ## Metodologia
-Para a execução do artefato, houve uma divisão dos grupos, cada um responsável por uma visão específica. A decisão sobre essa divisão está documentada na [Ata 5](https://unbarqdsw2023-2.github.io/2023.2_G7_ProjetoMagazineLuiza/#/atas/ata5). Nessa reunião, também foi acordado utilizar uma versão adaptada da visão DAS 4+1, que incluiu a visão de dados, enquanto a visão de cenários foi omitida. A escolha de não utilizar a visão de cenários foi motivada pela maior afinidade do grupo com a visão de Caso de Uso, além de ser uma sugestão do autor sobre a opção de usar cenários ou não. A tabela 1 representa a alocação das equipes para cada visão.
+
+Para a execução do artefato, houve uma divisão dos grupos, cada um responsável por uma visão específica. A decisão sobre essa divisão está documentada na [Ata 5](https://unbarqdsw2023-2.github.io/2023.2_G7_ProjetoMagazineLuiza/#/atas/ata5). Nessa reunião, também foi acordado representar a arquitetura do sistema com uma versão adaptada da visão DAS 4+1, que incluiu a visão de dados, enquanto a visões de cenários e de implantação foram omitidas. A escolha de não utilizar a visão de cenários foi motivada pela maior afinidade do grupo com a visão de Caso de Uso, além de ser uma sugestão do autor sobre a opção de usar cenários ou não. A tabela 1 representa a alocação das equipes para elaboração de cada visão, assim como os insumos de cada uma delas.
 
 <div align="center">
 
-Tabela 1 - Participantes do Artefato
+Tabela 1 - Visões de Arquitetura
 
-| Visão | Integrantes |
-| ---------| ---------|
-| Visão de Caso de Uso   |  [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)  |
-| Visão Lógica   | [Geovanna Maciel](https://github.com/manuziny), [Laura Pinos](https://github.com/laurapinos) e [Sidney Fernando](https://github.com/nando3d3)   |
-| Visão de Dados   | [Douglas Alves](https://github.com/dougAlvs)    |
-| Visão de Processos   | [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut)  |
-| Visão de Implementação | [Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs) e  [Maciel Júnior](https://github.com/macieljuniormax)  |
+| Visão | Integrantes | Insumos |
+|---------| ---------|---------|
+| [Visão de Caso de Uso](/ArquiteturaReutilizacao/DAS?id=visão-de-casos-de-uso)   |  [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny)  |   [Diagrama de Caso de Uso](/ArquiteturaReutilizacao/DAS?id=visão-de-casos-de-uso)        |
+| [Visão Lógica](/ArquiteturaReutilizacao/DAS?id=visão-lógica)   | [Geovanna Maciel](https://github.com/manuziny), [Laura Pinos](https://github.com/laurapinos) e [Sidney Fernando](https://github.com/nando3d3)   |   [Diagrama de Classes](Modelagem/DiagramaClasses), [Diagrama de Pacotes](Modelagem/DiagramaPacotes) e [Diagrama de Comunicação](Modelagem/comunicacao)       |
+| [Visão de Dados](/ArquiteturaReutilizacao/DAS?id=visão-de-dados)   | [Douglas Alves](https://github.com/dougAlvs)    | [Modelo Entidade Relacionamento](/ArquiteturaReutilizacao/DAS?id=visão-de-dados), [Diagrama Entidade Relacionamento](/ArquiteturaReutilizacao/DAS?id=visão-de-dados) e [Diagrama Lógico de Dados](/ArquiteturaReutilizacao/DAS?id=visão-de-dados)         |
+| [Visão de Processo](/ArquiteturaReutilizacao/DAS?id=visão-de-processo)   | [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut)  |   [Diagrama de Sequência](Modelagem/DiagramaSequencia)   e [Diagrama de Comunicação](Modelagem/comunicacao)      |
+| [Visão de Implementação](/ArquiteturaReutilizacao/DAS?id=visão-de-implementação) | [Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs) e  [Maciel Júnior](https://github.com/macieljuniormax)  |    [Diagrama de Componentes](Modelagem/diagrama-componentes)       |
 
 Fonte: _[Geovanna Maciel](https://github.com/manuziny)_
 
@@ -29,30 +32,66 @@ A formação dos grupos ocorreu com base na afinidade de cada integrante com os 
 
 Embora cada visão possua uma página dedicada, neste documento elas estão consolidadas para proporcionar uma leitura mais fluida. Isso permite que o leitor identifique a integração do sistema em cada visão, demonstrando como essa abordagem pode otimizar a qualidade, a eficiência e a adaptabilidade dos sistemas.
 
-## Visões
+## Escopo
+
+O presente Documento de Arquitetura de Software se aplica ao escopo do perfil comprador, com o fluxo compreendido do cadastro na plataforma até a visualização, compra e pagamento de produtos da plataforma de comércio eletrônico Magalu. Na etapa de [desenho de software base](Base/1.Base) do projeto, a equipe elaborou, por meio de uma sessão de brainstorming, um [mapa mental](/Base/MapaMental.md) para entender melhor o escopo do trabalho e quais os processos que seriam abordados em etapas posteriores, tudo isso sob a ótica de diferentes integrantes com perspectivas distintas. Na Figura X é possível visualizar esse mapa mental.
+
+
+<center>
+
+Figura X - Mapa mental do escopo do projeto
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMlLkH4M=/?moveToViewport=-3357,-1315,1028,1032&embedId=34743970085" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+<font>Fonte: Autores, 2023 </font>
+
+</center>
 
 ## Visão de Casos de Uso
 
+<details>
+<summary>Detalhes</summary>
+
 [Visão de Casos de Uso](./visoes/visao-use-case.md ':include')
+
+</details>
 
 ## Visão Lógica
 
+<details>
+<summary>Detalhes</summary>
+
 [Visão Lógica](./visoes/visao-logico.md ':include')
+
+</details>
 
 ## Visão de Processo
 
+<details>
+<summary>Detalhes</summary>
+
 [Visão de Processo](./visoes/visao-processos.md ':include')
+
+</details>
 
 ## Visão de Implementação
 
+<details>
+<summary>Detalhes</summary>
+
 [Visão de Implementação](./visoes/visao-implementacao.md ':include') 
+
+</details>
+
 
 ## Visão de Dados
 
+<details>
+<summary>Detalhes</summary>
+
 [Visão Dados](./visoes/visao-dados.md ':include') 
 
-## Conclusão
-
+</details>
 
 
 ## Referências Bibliográficas
