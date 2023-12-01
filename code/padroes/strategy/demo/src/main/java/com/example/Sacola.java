@@ -1,4 +1,4 @@
-package classes;
+package com.example;
 
 public class Sacola {
     // private ItemSacola[] listaItems;

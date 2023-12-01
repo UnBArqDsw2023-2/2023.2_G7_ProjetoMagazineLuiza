@@ -1,8 +1,5 @@
-import classes.CalcDescontoStrategy;
-import classes.CalcDescontoPorcento;
-import classes.CalcDescontoValor;
-import classes.NoDiscount;
-import classes.Sacola;
+package com.example;
+
 
 public class Main {
     public static void main(String[] args) {

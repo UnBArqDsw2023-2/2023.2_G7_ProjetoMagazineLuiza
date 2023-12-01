@@ -86,4 +86,4 @@ Figura 5 - Código Sem Desconto
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Documentação da implementação do Strategy.   | [Arthur de Melo](https://github.com/arthurmlv) e [Sidney Fernando](https://github.com/nando3d3)  |  [Douglas Alves](https://github.com/dougalvs)  | 30/11/2023 |
-| 1.0      | Documentação da implementação do Strategy.   | [Arthur de Melo](https://github.com/arthurmlv)   |  [Douglas Alves](https://github.com/dougalvs)  | 30/11/2023 |
+| 1.1      | Correções da revisão.   | [Arthur de Melo](https://github.com/arthurmlv)   |  [Geovanna Maciel](https://github.com/manuziny)  | 30/11/2023 |

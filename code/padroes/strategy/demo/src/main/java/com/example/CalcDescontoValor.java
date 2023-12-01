@@ -1,4 +1,4 @@
-package classes;
+package com.example;
 
 public class CalcDescontoValor implements CalcDescontoStrategy{
     private float valorFixo;

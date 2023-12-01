@@ -1,4 +1,4 @@
-package classes;
+package com.example;
 
 public class CalcDescontoPorcento implements CalcDescontoStrategy{
     private int porcentagem;
