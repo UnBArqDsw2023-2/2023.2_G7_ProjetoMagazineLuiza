@@ -50,7 +50,11 @@ O Diagrama de Comunicação foi elaborado para destacar os vínculos entre os fl
 
 Em resumo, o Diagrama de Comunicação não apenas reflete as interações dinâmicas entre objetos, mas também proporciona uma compreensão profunda e abrangente das operações do sistema, promovendo a eficácia e a otimização contínua no contexto do projeto da Magazine Luiza.
 
-
-
-
 ### Conclusão
+Em conclusão, a execução dessa visão lógica no contexto do projeto Magazine Luiza resultou numa visão integralizada dos diagramas de classes, pacotes e comunicação que desempenham papéis cruciais na compreensão e desenvolvimento do sistema. Em conjunto, esses diagramas refletem uma abordagem abrangente e coerente para a análise lógica do sistema, fornecendo insights valiosos para o desenvolvimento do projeto Magazine Luiza. A reunião realizada em 30 de novembro de 2023, no ambiente do Discord, desempenhou um papel crucial no alinhamento das atividades e na garantia da integridade dos diagramas. Essa abordagem metodológica, aliada ao uso de ferramentas como Lucidchart e Drawio, reforça a importância do planejamento e colaboração na modelagem arquitetural de sistemas complexos.
+
+
+
+
+
+
