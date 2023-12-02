@@ -34,42 +34,8 @@ Cada manipulador na cadeia possui a capacidade de processar a solicitação (val
 
 ## UML
 
-<div class="mermaid"> 
-classDiagram
-class CupomHandler{
-    &#60;&#60;interface&#62;&#62;
-    + validarCupom(Cupom cupomBaseDeDados, Cupom cupomUsuario) void
-    + setProximo(cupomHandler: CupomHandler) void
-}
-class ValidarExistencia{
-    - proximo: CupomHandler
-    - Cupom[] cuponsExistentes
-    + validarCupom(Cupom cupomBaseDeDados, Cupom cupomUsuario) void
-    + setProximo(cupomHandler: CupomHandler) void
-}
-class ValidarData{
-    - dataAtual: LocalDate
-    - proximo: CupomHandler
-    + validarCupom(Cupom cupomBaseDeDados, Cupom cupomUsuario) void
-    + setProximo(cupomHandler: CupomHandler) void
-}
-class ValidarTipoProduto{
-    - proximo: CupomHandler
-    + validarCupom(Cupom cupomBaseDeDados, Cupom cupomUsuario) void
-    + setProximo(cupomHandler: CupomHandler) void
-}
-class AplicarDesconto{
-    - valorCompra: double
-    - proximo: CupomHandler
-    + validarCupom(Cupom cupomBaseDeDados, Cupom cupomUsuario) void
-    + setProximo(cupomHandler: CupomHandler) void
-}
-Client --> CupomHandler : Manda comando
-CupomHandler <|.. ValidarExistencia
-CupomHandler <|.. ValidarData
-CupomHandler <|.. ValidarTipoProduto
-CupomHandler <|.. AplicarDesconto
-</div>
+![Texto alternativo](../assets/padroes/diagrama-chain.png)
+
 <div style="text-align:center;">
 Figura 1: UML Chain Of Responsibility
 </div>
@@ -515,3 +481,4 @@ Em suma, a implementação do Chain of Responsibility na funcionalidade de aplic
 | 1.0      | Criação da estrutura da página   | [Débora Moreira](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax) |  [Hellen Fernanda](https://github.com/Hellen159)  | 29/11/2023|
 | 1.1      | UML e código implementados   | [Débora Moreira](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax) |  [Hellen Fernanda](https://github.com/Hellen159)  | 29/11/2023|
 | 1.2      | Explicação código e conclusão   | [Débora Moreira](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax) |  [Hellen Fernanda](https://github.com/Hellen159)  | 30/11/2023|
+| 1.3      | Adição do UML   | [Débora Moreira](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax) |  [Arthur de Melo](https://github.com/arthurmlv)  | 01/12/2023|
