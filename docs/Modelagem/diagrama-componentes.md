@@ -15,9 +15,10 @@ Na Tabela 1 a seguir, pode-se rastrear a participação de cada integrante na el
 
 | Participantes   | Etapas  |
 |-----------------|:------------:|
-|[Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax) | Diagrama de Componentes versão 1 |
+|[Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax) | Diagrama de Componentes versão 1 |
 |[Douglas Alves](https://github.com/dougAlvs)| Diagrama de Componentes versão 2 |
 |[Douglas Alves](https://github.com/dougAlvs)| Diagrama de Componentes versão 3 |
+|[Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), e [Maciel Júnior](https://github.com/macieljuniormax)| Diagrama de Componentes versão 4 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 </div>

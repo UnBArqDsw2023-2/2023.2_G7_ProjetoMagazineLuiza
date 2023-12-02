@@ -36,11 +36,16 @@ Embora cada visão possua uma página dedicada, neste documento elas estão cons
 [Visão de Casos de Uso](./visoes/visao-use-case.md ':include')
 
 ## Visão Lógica
+
 [Visão Lógica](./visoes/visao-logico.md ':include')
 
 ## Visão de Processo
 
 [Visão de Processo](./visoes/visao-processos.md ':include')
+
+## Visão de Implementação
+
+[Visão de Implementação](./visoes/visao-implementacao.md ':include') 
 
 ## Visão de Dados
 
@@ -65,6 +70,8 @@ Embora cada visão possua uma página dedicada, neste documento elas estão cons
 > KRUCHTEN, Philippe. Architectural Blueprints — The “4+1” View Model of Software Architecture. IEEE Software 12 (6), pp. 42-50, 1995. Disponível em: <https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf>. Acesso em: 28 de novembro de 2023 às 15:00.
 >
 > <a id='ref1'>[1.](#anchor1)</a> FOWLER, Martin. **UML Distilled : A Brief Guide to the Standard Object Modeling Language.** 3rd ed. Boston: Pearson Education, 2003.
+>
+> UML DIAGRAMS. UML Component Diagrams, 2023. Disponível em: <https://www.uml-diagrams.org/component-diagrams.html>. Acesso em: 30/11/2023.
 
 
 ## Histórico de Versões
@@ -83,3 +90,4 @@ Embora cada visão possua uma página dedicada, neste documento elas estão cons
 | 1.0.6      | Criação da versão inicial do artefato.   | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | 28/11/2023 |
 | 1.0.7      | Adição dos textos nos diagramas de sequências.   | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | 29/11/2023 |
 | 1.0.8      | Documentação da visão de processo do diagrama de atividades, adiciona metodologia e conclusão.   | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) | 29/11/2023 |
+| 1.0.9      | Documentação da visão implementacao do diagrama de componentes   | [Débora Caires](https://github.com/deboracaires), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax) | [Douglas Alves](https://github.com/dougAlvs) | 01/12/2023 |
