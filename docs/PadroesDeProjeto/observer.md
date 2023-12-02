@@ -42,7 +42,7 @@ Figura 1 - Diagrama UML da solução.
 
 ## Código
 
-O código segue a estrutura proposta pelo Refactoring Guru, passando por algumas modificações para se adequar ao diagrama UML criado. Os trechos subsequentes são concebidos para ilustrar a forma como a implementação poderia ser executada, o que resulta na omissão de certas estruturas presentes no [diagrama de classes](../Modelagem/DiagramaClasses).
+O código segue a estrutura proposta pelo Refactoring Guru, passando por algumas modificações para se adequar ao diagrama UML criado. Os trechos subsequentes são concebidos para ilustrar a forma como a implementação poderia ser executada, o que resulta na omissão de certas estruturas presentes no [diagrama de classes](/Modelagem/DiagramaClasses).
 
 ### Classe Produto
 
@@ -210,15 +210,15 @@ Os códigos da implementação podem ser encontrados neste [link](https://github
 ## Referências Bibliográficas
 
 > <a id='ref1'>[1.](#anchor1)</a> GAMMA, Eric, et al. **Design Patterns: Elements of Reusable Object-Oriented Software.** 1rd ed. Indianapolis: Pearson Education, 1994.
-
+>
 > <a id='ref2'>[2.](#anchor2)</a> HAMILTON, Kim; MILES, RUSS. **Learning UML 2.0.** California: O’Reilly Media, 2006.
 
 ## Bibliografia
 
 > **Observer**. Refactoring Guru, 2023. Disponível em: <https://refactoring.guru/pt-br/design-patterns/observer>. Acesso em: 26 de novembro de 2023.
-
+>
 > **Observer Design Pattern**. Source Making, 2023. Disponível em: <https://sourcemaking.com/design_patterns/observer>. Acesso em: 27 de novembro de 2023.
-
+>
 > **Observer em Java**. Refactoring Guru, 2023. Disponível em: <https://refactoring.guru/pt-br/design-patterns/observer/java/example>. Acesso em: 29 de novembro de 2023.
 
 ## Histórico de Versões

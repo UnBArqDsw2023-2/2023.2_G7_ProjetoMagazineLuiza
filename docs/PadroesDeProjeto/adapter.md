@@ -4,7 +4,7 @@
 
 De maneira concisa, um padrão pode ser definido como "uma solução recorrente para um problema comum em um contexto específico" (SWEBOK, 2019). No universo da engenharia de software, os padrões desempenham um papel crucial na definição da arquitetura e do design dos sistemas. Nesse contexto, os estilos arquiteturais oferecem uma perspectiva abrangente sobre a organização do software. Esses estilos se dividem em três categorias distintas: criacionais, estruturais e comportamentais, cada uma abordando desafios específicos.
 
-No âmbito dessas categorias, foi escolhido o padrão de projeto Adapter para resolver um desafio específico no site da Magazine Luiza. Este padrão, inserido na categoria estrutural, demonstra sua utilidade ao harmonizar interfaces inicialmente incompatíveis, facilitando a integração entre componentes heterogêneos. Desta forma, foi explorado como a implementação do padrão Adapter se revelou útil para aprimorar a funcionalidade de pagamento, a problemática será melhor discorrida no tópico **Problemática e Solução**.
+No âmbito dessas categorias, foi escolhido o padrão de projeto Adapter para resolver um desafio específico no site da Magazine Luiza. Este padrão, inserido na categoria estrutural, demonstra sua utilidade ao harmonizar interfaces inicialmente incompatíveis, facilitando a integração entre componentes heterogêneos. Desta forma, foi explorado como a implementação do padrão Adapter se revelou útil para aprimorar a funcionalidade de pagamento, a problemática será melhor discorrida no tópico [Problemática e Solução](/PadroesDeProjeto/adapter?id=problemática-e-solução).
 
 ## Metodologia
 

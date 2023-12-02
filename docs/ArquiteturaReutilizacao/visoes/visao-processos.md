@@ -8,12 +8,12 @@ A visão de processos foi realizada pelos integrantes: [Arthur de Melo](https://
 
 De acordo com Kruchten, a visão de processo deve contabilizar alguns requisitos não-funcionais, tais como desempenho e disponibilidade, a fim de analisar a simultaneidade e distribuição, a integridade do sistema, tolerância a falhas e também deve-se levar em conta as abstrações da visão lógica (Kruchten, 1995). Além disso, as correções realizadas e as outras versões, que foram necessárias para culminar na versão aqui exibida dos diagramas, estão presentes na [página de Modelagem do Diagrama de Atividades](Modelagem/DiagramaAtividades.md). Logo, essas alterações não serão comentadas neste artefato e a análise consistirá apenas das versões aqui disponibilizadas.
 
-Sendo assim, deve-se ponderar que os diagramas considerados na visão lógica são: de [Comunicação](Modelagem/comunicacao.md), de [Classes](Modelagem/DiagramaClasses.md) e de [Pacotes](Modelagem/DiagramaPacotes.md). Na Figura YY1, pode-se analisar que a abstração realizada no [Diagrama de Comunicação](Modelagem/comunicacao.md) pode ser traduzida e verificada pelo diagrama de atividades correspondente. Dado que cobre grande parte das possibilidades em relação à validação do e-mail — se foi criado ou não —, dos dados e 
+Sendo assim, deve-se ponderar que os diagramas considerados na visão lógica são: de [Comunicação](Modelagem/comunicacao.md), de [Classes](Modelagem/DiagramaClasses.md) e de [Pacotes](Modelagem/DiagramaPacotes.md). Na Figura 8, pode-se analisar que a abstração realizada no [Diagrama de Comunicação](Modelagem/comunicacao.md) pode ser traduzida e verificada pelo diagrama de atividades correspondente. Dado que cobre grande parte das possibilidades em relação à validação do e-mail — se foi criado ou não —, dos dados e 
 a confirmação da conta. O que o diagrama de atividades complementa seriam as possibilidades após a realização da referida atividade, que seria fechar o site ou realizar login, o que pode culminar em uma ação compra ou outra atividade.
 
 <center>
 
-**Figura YY1** - Diagrama de Atividades: Cadastro e Acesso versão 2.1
+**Figura 8** - Diagrama de Atividades: Cadastro e Acesso versão 2.1
 
 <img src="assets/diagramaAtividade1_v2_1.png" alt="Diagrama de Atividades 1.2" width="1000"/>
 
@@ -27,7 +27,7 @@ Por fim, outro artefato a ser considerado é a visão de [Caso de Uso](Arquitetu
 
 <center>
 
-**Figura YY2** - Diagrama de Atividades: Compra versão 2
+**Figura 9** - Diagrama de Atividades: Compra versão 2
 
 <img src="assets/diagramaAtividade2_v2.png" alt="Diagrama de Atividades 2" width="1000"/>
 
@@ -37,19 +37,17 @@ Por fim, outro artefato a ser considerado é a visão de [Caso de Uso](Arquitetu
 
 ### Diagrama de Sequência
 
-**!! Linkar com os outros artefatos e elaborar mais sobre os processo envolvidos !!**
-
 Um diagrama de sequência é uma representação visual em UML (Unified Modeling Language) usada para mostrar como objetos interagem em um sistema ao longo do tempo, sendo considerado o tipo de diagrama de interação mais comum. Ele descreve as mensagens trocadas entre objetos, suas linhas de vida, e pode incluir fragmentos de interação para representar lógica condicional (FOWLER, 2003).<a id='anchor1'>[1](#ref1)</a>
 
 No intuito de melhor apresentar as diferentes interações que ocorrem no sistema foram construídos três diagramas um de visão geral, um representando o processo de cadastro e um do processo de compra.
 
 #### Diagrama de Sequência: Geral
 
-Esse diagrama apresenta de maneira geral os componentes responsáveis pelas principais atividades oferecidas pelo sistema. Nele são apresentados os componentes de cadastro de usuários, visualização de produtos, compra e pagamento. Os componentes de cadastro e compra serão mais detalhados a seguir. A figura x apresenta o diagrama.
+Esse diagrama apresenta de maneira geral os componentes responsáveis pelas principais atividades oferecidas pelo sistema. Nele são apresentados os componentes de cadastro de usuários, visualização de produtos, compra e pagamento. Os componentes de cadastro e compra serão mais detalhados a seguir. A figura 10 apresenta o diagrama.
 
 <center>
 
-**Figura x** - Diagrama de Sequência: Geral
+**Figura 10** - Diagrama de Sequência: Geral
 
 <p align="center">
     <img src="assets/visoes/processos/geral-proc.png" alt="Diagrama de Sequencia Geral" width="1000"/></a></br>
@@ -61,11 +59,11 @@ Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut), 2023.
 
 #### Diagrama de Sequência: Cadastro
 
-Nesse diagrama é apresentada uma visão mais abrangente das relações que ocorrem no sistema, principalmente entre o cliente, aplicação e os serviços externos a ela. É possível perceber que o sistema atua como um mediador do cliente com o serviço de autentificação externas à aplicação. Além disso, o banco de dados é apresentado como um elemento externo da aplicação dado a natureza deste componente, pois ele geralmente um serviços separado que atua somente quando aplicação realiza um solicitação ao mesmo. A figura x apresenta o diagrama.
+Nesse diagrama é apresentada uma visão mais abrangente das relações que ocorrem no sistema, principalmente entre o cliente, aplicação e os serviços externos a ela. É possível perceber que o sistema atua como um mediador do cliente com o serviço de autentificação externas à aplicação. Além disso, o banco de dados é apresentado como um elemento externo da aplicação dado a natureza deste componente, pois ele geralmente um serviços separado que atua somente quando aplicação realiza um solicitação ao mesmo. A figura 11 apresenta o diagrama.
 
 <center>
 
-**Figura x** - Diagrama de Sequência: Cadastro
+**Figura 11** - Diagrama de Sequência: Cadastro
 
 <p align="center">
     <img src="assets/visoes/processos/cadastro-proc.png" alt="Diagrama de Sequencia Cadastro" width="1000"/></a></br>
@@ -77,15 +75,13 @@ Fonte: Elaborada por [Douglas Alves](https://github.com/dougAlvs) e [Matheus Hen
 
 #### Diagrama de Sequência: Compra
 
-**!! Adicionar o link com o diagrama de classe atualizado. !!**
-
 Esse diagrama apresenta a relação entre o usuário e os componentes do sistema que permite a realização dessa atividade.
 
-Já construído com falhas em [entregas anteriores](Modelagem/DiagramaSequencia.md?id=diagrama-de-compra), ele foi refeito e ajustado para melhor demonstrar as relações entre os componentes, principalmente os apresentados no [diagrama de classes de compra](Modelagem/DiagramaClasses.md). Sendo uma versão que se aproxima do diagrama de sequência de interações, nele é possível visualizar a troca de mensagens entre as classes _Produto_, _ItemSacola_ e a _Sacola_, onde é possível observar o desacoplamento delas que permite um melhor controle. Vale ressaltar que a reconstrução foi novamente feita tendo os [léxico de compra](Base/lexicos.md#l02-comprar), [mapa mental](Base/MapaMental?id=visualização-no-miro) e o [rich picture](Base/RichPicture.md?id=rich-picture-definido) como guias para os passos que deveriam ser realizados para se completar a tarefa. A figura x apresenta o diagrama.
+Já construído com falhas em [entregas anteriores](Modelagem/DiagramaSequencia.md?id=diagrama-de-compra), ele foi refeito e ajustado para melhor demonstrar as relações entre os componentes, principalmente os apresentados no [diagrama de classes de compra](Modelagem/DiagramaClasses.md). Sendo uma versão que se aproxima do diagrama de sequência de interações, nele é possível visualizar a troca de mensagens entre as classes _Produto_, _ItemSacola_ e a _Sacola_, onde é possível observar o desacoplamento delas que permite um melhor controle. Vale ressaltar que a reconstrução foi novamente feita tendo os [léxico de compra](Base/lexicos.md#l02-comprar), [mapa mental](Base/MapaMental?id=visualização-no-miro) e o [rich picture](Base/RichPicture.md?id=rich-picture-definido) como guias para os passos que deveriam ser realizados para se completar a tarefa. A figura 12 apresenta o diagrama.
 
 <center>
 
-**Figura x** - Diagrama de Sequência: Compra
+**Figura 12** - Diagrama de Sequência: Compra
 
 <p align="center">
     <img src="assets/visoes/processos/compra-proc.png" alt="Diagrama de Sequencia Compra" width="1000"/></a></br>

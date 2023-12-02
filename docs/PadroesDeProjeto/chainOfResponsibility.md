@@ -470,9 +470,9 @@ Em suma, a implementação do Chain of Responsibility na funcionalidade de aplic
 
 ## Referências Bibliográficas
 > <a id="ancora1"></a> 1. Refactoring Guru. Chain of Responsibility. Disponível em: https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility. Acesso em: 25 Nov 2023.
-
+>
 > <a id="ancora2"></a> 2. GAMMA, E. et al. Design Patterns. [s.l.]: Pearson Education, 1994.
-
+>
 > <a id="ancora3"></a> 3. MOREIRA, Diogo. Padrão Chain of Responsibility. Disponível em: https://diogomoreira.gitbook.io/padroes-de-projeto/padroes-gof-comportamentais/padrao-chain-of-responsibility. Acesso em: 28 Nov 2023. 
 
 ## Histórico de Versões

@@ -75,11 +75,11 @@ Cardinalidade (n:1)
 
 ### Diagrama Entidade Relacionamento
 
-Ainda no nível conceitual, o DER fornece uma representação visual das entidades, atributos e relacionamentos do MER. Nele, as entidades são representadas por retângulos, os atributos por elipses e os relacionamentos por losangos. O diagrama da Figura 6 foi feito utilizando a ferramenta brModelo.
+Ainda no nível conceitual, o DER fornece uma representação visual das entidades, atributos e relacionamentos do MER. Nele, as entidades são representadas por retângulos, os atributos por elipses e os relacionamentos por losangos. O diagrama da Figura 14 foi feito utilizando a ferramenta brModelo.
 
 <center>
 
-Figura 6 - Diagrama Entidade Relacionamento
+Figura 14 - Diagrama Entidade Relacionamento
 
 <img src="assets/visoes/der.png" alt="Diagrama Entidade Relacionamento" width="1400"/>
 
@@ -89,11 +89,11 @@ Figura 6 - Diagrama Entidade Relacionamento
 
 ### Diagrama Lógico de Dados
 
-O DLD, por sua vez, representa o nível lógico do banco de dados, ou seja, o grau de abstração já é menor e há uma maior proximidade com a implementação. Nele não existem mais entidades ou relacionamentos, apenas tabelas. Além disso, com sua análise é possível obter informações preciosas como: tipos de dados dos atributos e presença de chaves primárias, estrangeiras e candidatas.
+O DLD, presente na Figura 15, por sua vez, representa o nível lógico do banco de dados, ou seja, o grau de abstração já é menor e há uma maior proximidade com a implementação. Nele não existem mais entidades ou relacionamentos, apenas tabelas. Além disso, com sua análise é possível obter informações preciosas como: tipos de dados dos atributos e presença de chaves primárias, estrangeiras e candidatas.
 
 <center>
 
-Figura 7 - Diagrama Lógico de Dados
+Figura 15 - Diagrama Lógico de Dados
 
 <img src="assets/visoes/dld.png" alt="Diagrama Lógico de Dados" width="1400"/>
 
@@ -106,4 +106,4 @@ Figura 7 - Diagrama Lógico de Dados
 
 A representação dos dados por meio do Modelo Entidade-Relacionamento (MER), do Diagrama Entidade-Relacionamento (DER) e do Diagrama Lógico de Dados (DLD) proporcionou uma visão abrangente e detalhada das estruturas de persistência de dados do sistema. 
 
-Por um lado, com o MER e o DER, a visão de dados se aproxima de uma perspectiva mais conceitual e de nível de abstração semelhante à [visão lógica](#Visão-Lógica), já por outro, com a presença do DLD, apresenta uma visão mais física e próxima da implementação do código do banco de dados em si, com o próximo nível sendo justamente a implementação que pode ser observada no tópico de [Reutilização de Software]().
+Por um lado, com o MER e o DER, a visão de dados se aproxima de uma perspectiva mais conceitual e de nível de abstração semelhante à [visão lógica](#Visão-Lógica), já por outro, com a presença do DLD, apresenta uma visão mais física e próxima da implementação do código do banco de dados em si, com o próximo nível sendo justamente a implementação que pode ser observada no tópico de [Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware?id=banco-de-dados).

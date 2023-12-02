@@ -15,14 +15,14 @@ O artefato desenvolvido neste documento tem como objetivo principal proporcionar
 Ao focar na visão de implementação, o artefato visa facilitar a compreensão prática da arquitetura do sistema no contexto da compra de produtos, que é o foco deste trabalho. Destacam-se os componentes essenciais, desde a busca de produtos até o processamento do pagamento, proporcionando uma base sólida para a implementação eficaz e escalável do sistema. Um detalhamento melhor do diagrama pode ser encontrado na página dedicada a ele: [Diagrama de Componentes](Modelagem/diagrama-componentes.md).
 
 <center>
-Figura 10 - Diagrama de Componentes - Versão 4
+Figura 13 - Diagrama de Componentes - Versão 4
 <p align="center">
     <img src="assets/diagrama-componentes/diagrama-componentes4.png" alt="Diagrama de Componentes" width="1000"/></a></br>
 </p>
 <font>Fonte: Autores, 2023</font>
 </center>
 
-Na Figura 10 acima, é apresentada a versão final do diagrama de componentes. Podem ser observados componentes de usuário, pedidos, catálogo, plataforma, persistência, pagamento e segurança. Uma maior abstração foi aplicada na versão final, onde métodos em versões anteriores foram transformados em componentes, tornando o componente de plataforma menos complexo e mais abstrato, conforme sugerido pela professora em seu feedback.
+Na Figura 13 acima, é apresentada a versão final do diagrama de componentes. Podem ser observados componentes de usuário, pedidos, catálogo, plataforma, persistência, pagamento e segurança. Uma maior abstração foi aplicada na versão final, onde métodos em versões anteriores foram transformados em componentes, tornando o componente de plataforma menos complexo e mais abstrato, conforme sugerido pela professora em seu feedback.
 
 ### Conclusão
 

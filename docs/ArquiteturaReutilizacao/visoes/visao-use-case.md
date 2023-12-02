@@ -6,11 +6,11 @@ A execução deste artefato se deu, inicialmente, por meio de um estudo individu
 
 #### Diagrama de Caso de Uso
 
-Conforme sugerido por Kruchten em seu Modelo de Visão 4+1: para melhor visualização das demais quatro visões, a descrição de cenários facilita o descobrimento de elementos arquiteturais durante o processo de desenho. Além de seu papel na validação e do caráter ilustrativo de tal após a finalização do design de arquitetura (KRUCHTEN, 1995). Entretanto, apesar da recomendação de Kruchten pelos cenários, o grupo optou por realizar uma adaptação do método ao fazer uso do Diagrama de Casos de Uso. Tal escolha se deu pela experiência prévia dos integrantes envolvidos neste artefato com tal ferramenta. A Figura 1 a seguir explicita a primeira versão do diagrama de casos de uso.
+Conforme sugerido por Kruchten em seu Modelo de Visão 4+1: para melhor visualização das demais quatro visões, a descrição de cenários facilita o descobrimento de elementos arquiteturais durante o processo de desenho. Além de seu papel na validação e do caráter ilustrativo de tal após a finalização do design de arquitetura (KRUCHTEN, 1995). Entretanto, apesar da recomendação de Kruchten pelos cenários, o grupo optou por realizar uma adaptação do método ao fazer uso do Diagrama de Casos de Uso. Tal escolha se deu pela experiência prévia dos integrantes envolvidos neste artefato com tal ferramenta. A Figura 4 a seguir explicita a primeira versão do diagrama de casos de uso.
 
 <center>
 
-Figura 1 - Diagrama de Caso de Uso Versão 1
+Figura 4 - Diagrama de Caso de Uso Versão 1
 
 <img src="assets/visoes/use-case1.png" alt="" width="1400"/>
 
@@ -18,11 +18,11 @@ Figura 1 - Diagrama de Caso de Uso Versão 1
 
 </center>
 
-A Figura 2 a seguir demonstra a segunda versão para o diagrama, feita após a verificação.
+A Figura 5 a seguir demonstra a segunda versão para o diagrama, feita após a verificação.
 
 <center>
 
-Figura 2 - Diagrama de Caso de Uso Versão 2
+Figura 5 - Diagrama de Caso de Uso Versão 2
 
 <img src="assets/visoes/use-case2.png" alt="" width="1400"/>
 
