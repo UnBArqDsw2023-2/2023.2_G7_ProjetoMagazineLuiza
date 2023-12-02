@@ -4,7 +4,7 @@
 
 De maneira concisa, um padrão pode ser definido como "uma solução recorrente para um problema comum em um contexto específico" (SWEBOK, 2019). No universo da engenharia de software, os padrões desempenham um papel crucial na definição da arquitetura e do design dos sistemas. Nesse contexto, os estilos arquiteturais oferecem uma perspectiva abrangente sobre a organização do software. Esses estilos se dividem em três categorias distintas: criacionais, estruturais e comportamentais, cada uma abordando desafios específicos.
 
-No âmbito dessas categorias, foi escolhido o padrão de projeto Singleton para gerenciar o acesso à conexão com o banco de dados no backend da aplicação (essa problemática será melhor discorrida no tópico [Problemática e Solução](/PadroesDeProjeto/adapter?id=problemática-e-solução)). Este padrão, inserido na categoria criacional, demonstra sua utilidade ao garantir que uma determinada classe tenha uma única instância ao mesmo tempo e também ao fornecer um acesso global para essa instância.
+No âmbito dessas categorias, foi escolhido o padrão de projeto Singleton para gerenciar o acesso à conexão com o banco de dados no backend da aplicação (essa problemática será melhor discorrida no tópico [Problemática e Solução](/PadroesDeProjeto/singleton?id=problemática-e-solução)). Este padrão, inserido na categoria criacional, demonstra sua utilidade ao garantir que uma determinada classe tenha uma única instância ao mesmo tempo e também ao fornecer um acesso global para essa instância.
 
 ## Metodologia
 
