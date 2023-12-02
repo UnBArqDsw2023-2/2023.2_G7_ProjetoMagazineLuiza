@@ -75,6 +75,19 @@ Figura 3 - Diagrama de Componentes Versão 3
 
 </center>
 
+### Versão 4
+
+Na quarta versão apresentada na Figura 4, foram considerados os feedbacks da entrega 2. Estabeleceram-se novas relações, envolvendo catálogo, pedidos e segurança. Observou-se que o papel da Plataforma ainda abrangia muitas tarefas, então ele foi distribuído entre essas novas relações. Também foi levada em consideração a questão da segurança, que anteriormente estava contida apenas no processo de pagamento; nessa versão, ela foi separada e passou a englobar todas as tarefas que requerem o tratamento de dados confidenciais.
+<center>
+
+Figura 4 - Diagrama de Componentes Versão 4
+
+<img src="assets/diagrama-componentes/diagrama-componentes4.png" alt="Diagrama de Pacotes Versão 3" width="1400"/>
+
+<font>Fonte: [Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs) e [Maciel Júnior](https://github.com/macieljuniormax), 2023</font>
+
+</center>
+
 ## Conclusão
 
 O diagrama de componentes apresentado forneceu um grande desafio à equipe devido a sua complexidade, porém oferece uma visão abrangente e estruturada dos elementos essenciais que compõem nosso sistema. Ele serviu como uma ferramenta valiosa para descrever a arquitetura e a organização interna da aplicação de maneira modular e de alto nível de abstração, destacando as interações e dependências entre cada componente.
@@ -82,16 +95,17 @@ O diagrama de componentes apresentado forneceu um grande desafio à equipe devid
 ## Referências Bibliográficas
 
 > FOWLER, Martin. UML Essencial: um breve guia para linguagem padrão. Bookman editora, 2014.
-> 
+>
 > UML DIAGRAMS. UML Component Diagrams, 2023. Disponível em: <<https://www.uml-diagrams.org/component-diagrams.html>>. Acesso em:  30/09/2023.
-> 
+>
 > LARMAN, Craig. Utilizando UML e padrões. Bookman Editora, 2007.
 
 ## Histórico de Versões
 | Versão   | Descrição  | Responsável | Revisor    | Data      |
 |----------|------------|-------------|------------|-----------|
 | 1.0      | Criação da página e adição da introdução   | [Douglas Alves](https://github.com/dougAlvs)   | [Maciel Júnior](https://github.com/macieljuniormax)   | 30/09/2023|
-| 1.1      | Adição da v1 do diagrama   | [Debora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax)   | [Hellen Fernanda](https://github.com/Hellen159)  | 30/09/2023|
-| 1.2      | Adição da metodologia da V1 e artefato   | [Debora Caires](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax)   |  [Douglas Alves](https://github.com/dougAlvs)  | 08/10/2023|
+| 1.1      | Adição da v1 do diagrama   | [Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs), [Laura Pinos](https://github.com/laurapinos) e [Maciel Júnior](https://github.com/macieljuniormax)   | [Hellen Fernanda](https://github.com/Hellen159)  | 30/09/2023|
+| 1.2      | Adição da metodologia da V1 e artefato   | [Débora Caires](https://github.com/deboracaires) e [Maciel Júnior](https://github.com/macieljuniormax)   |  [Douglas Alves](https://github.com/dougAlvs)  | 08/10/2023|
 | 1.3      | Adição da segunda versão do diagrama e da conclusão  | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  | 08/10/2023|   |  
-| 1.4      | Adição da terceira versão do diagrama e atualização da conclusão  | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  | 09/10/2023|   |  
+| 1.4      | Adição da terceira versão do diagrama e atualização da conclusão  | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  | 09/10/2023|
+| 2.0      | Adição da quarta versão do diagrama  | [Débora Caires](https://github.com/deboracaires), [Douglas Alves](https://github.com/dougAlvs) e [Maciel Júnior](https://github.com/macieljuniormax) | [Arthur de Melo](https://github.com/arthurmlv)  | 01/12/2023|
